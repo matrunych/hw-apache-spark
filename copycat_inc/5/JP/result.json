@@ -1,0 +1,3004 @@
+{
+    "channels": [
+        {
+            "channel_name": "DHC\u30c6\u30ec\u30d3",
+            "total_trending_days": 98,
+            "videos_days": [
+                {
+                    "video_id": "jF5kDifTKQk",
+                    "video_title": "\u3010DHC\u30116/13(\u6c34) \u30b1\u30f3\u30c8\u30fb\u30ae\u30eb\u30d0\u30fc\u30c8\u00d7\u5317\u6751\u6674\u7537\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "_L58zomsaAY",
+                    "video_title": "\u3010DHC\u30114/17(\u706b) \u767e\u7530\u5c1a\u6a39\u00d7\u5742\u6771\u5fe0\u4fe1\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "0RXgXGcrUvQ",
+                    "video_title": "\u3010DHC\u30115/31(\u6728) \u6709\u672c\u9999\u00d7\u9577\u5c3e\u305f\u304b\u3057\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "JJHsGXj0IxQ",
+                    "video_title": "\u3010DHC\u30114/30(\u6708) \u4e0a\u5ff5\u53f8\u00d7\u6709\u672c\u9999\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Ut2bntN5yYU",
+                    "video_title": "\u3010\u9332\u753b\u653e\u9001\u3011\u3010DHC\u30113/26(\u6708) \u9752\u5c71\u7e41\u6674\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "-7FwdKb0Fg4",
+                    "video_title": "\u3010DHC\u30115/29(\u706b) \u767e\u7530\u5c1a\u6a39\u00d7\u77f3\u5e73\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "wdefWo7G9Jc",
+                    "video_title": "\u3010DHC\u30113/1(\u6728) \u6709\u672c\u9999\u00d7\u77f3\u5e73\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "nvSvrGUaRL0",
+                    "video_title": "\u3010DHC\u30112/6(\u706b) \u767e\u7530\u5c1a\u6a39\u00d7\u548c\u7530\u653f\u5b97\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u30b9\u30ab\u30a4\u30d7\u30b2\u30b9\u30c8\uff1a\u6211\u90a3\u8987\u771f\u5b50\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "tg3qdfomLUo",
+                    "video_title": "\u3010DHC\u30115/4(\u91d1) \u6b66\u7530\u90a6\u5f66\u00d7\u9808\u7530\u614e\u4e00\u90ce\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "JYoZpwJ_JbI",
+                    "video_title": "\u3010DHC\u30113/7(\u6c34) \u85e4\u4e95\u53b3\u559c\u00d7\u4e95\u4e0a\u548c\u5f66\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "3aSGxtDQokE",
+                    "video_title": "\u300e\u771f\u76f8\u6df1\u5165\u308a\uff01\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9 \u697d\u5c4b\u5165\u308a\uff01\u300f2018/3/30\u914d\u4fe1",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "bWkn12b6swE",
+                    "video_title": "\u3010DHC\u30116/8(\u91d1) \u4e0a\u5ff5\u53f8\u00d7\u5927\u9ad8\u672a\u8cb4\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "rKEsifVyFfY",
+                    "video_title": "\u3010DHC\u30115/28(\u6708) \u85e4\u4e95\u53b3\u559c\u00d7\u77f3\u5e73\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "vFLQRDnN5rY",
+                    "video_title": "\u3010DHC\u30115/24(\u6728) \u6709\u672c\u9999\u00d7\u7af9\u7530\u6052\u6cf0\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "W3k0s0jaREQ",
+                    "video_title": "\u3010DHC\u30116/11(\u6708) \u9752\u5c71\u7e41\u6674\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "0qMlRIoHA2Y",
+                    "video_title": "\u3010DHC\u30115/22(\u706b) \u767e\u7530\u5c1a\u6a39\u00d7\u6211\u90a3\u8987\u771f\u5b50\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "pXlsOUDtfqo",
+                    "video_title": "\u3010DHC\u30115/11(\u91d1) \u4e0a\u5ff5\u53f8\u00d7\u5927\u9ad8\u672a\u8cb4\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "bG28pexkVrk",
+                    "video_title": "\u3010DHC\u30112/27(\u706b) \u767e\u7530\u5c1a\u6a39\u00d7\u9ad8\u5c71\u6b63\u4e4b\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "DuXg16DqTho",
+                    "video_title": "\u3010DHC\u30113/20(\u706b) \u767e\u7530\u5c1a\u6a39\u00d7\u6709\u672c\u9999\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "HHaPe2vOFpM",
+                    "video_title": "\u3010DHC\u30112/9(\u91d1) \u6b66\u7530\u90a6\u5f66\u00d7\u9808\u7530\u614e\u4e00\u90ce\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "KQ2__O2WMMc",
+                    "video_title": "\u3010DHC\u30115/16(\u6c34) \u85e4\u4e95\u53b3\u559c\u00d7\u4e95\u4e0a\u548c\u5f66\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "fj6Z4UbJLNU",
+                    "video_title": "\u3010DHC\u30114/26(\u6728) \u6709\u672c\u9999\u00d7\u7af9\u7530\u6052\u6cf0\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "PGsrC3AkB5I",
+                    "video_title": "\u3010DHC\u30113/23(\u91d1) \u6b66\u7530\u90a6\u5f66\u00d7\u9808\u7530\u614e\u4e00\u90ce\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "rczkY9AIM7I",
+                    "video_title": "\u3010DHC\u30113/16(\u91d1) \u5927\u9ad8\u672a\u8cb4\u00d7\u4e0a\u5ff5\u53f8\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "77z1JM2CrA4",
+                    "video_title": "\u3010DHC\u30114/2(\u6708) \u9752\u5c71\u7e41\u6674\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "e3jLP3hp8Tk",
+                    "video_title": "\u3010DHC\u30116/7(\u6728) \u6709\u672c\u9999\u00d7\u77f3\u5e73\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "kOw1p5SWwUI",
+                    "video_title": "\u3010DHC\u30115/14(\u6708) \u9752\u5c71\u7e41\u6674\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "D7ItU9D30Dg",
+                    "video_title": "\u3010DHC\u30114/24(\u706b) \u767e\u7530\u5c1a\u6a39\u00d7\u6211\u90a3\u8987\u771f\u5b50\u00d7\u6709\u672c\u9999\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Ut2bntN5yYU",
+                    "video_title": "\u3010\u9332\u753b\u653e\u9001\u3011\u3010DHC\u30113/26(\u6708) \u9752\u5c71 \u7e41\u6674\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "2VhpSElbF1A",
+                    "video_title": "\u3010DHC\u30115/7(\u6708) \u9752\u5c71\u7e41\u6674\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "52jwc8VgheU",
+                    "video_title": "\u3010DHC\u30115/9(\u6c34) \u30b1\u30f3\u30c8\u30fb\u30ae\u30eb\u30d0\u30fc\u30c8\u00d7\u77f3\u5e73\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "V2PVXvxiORk",
+                    "video_title": "\u3010DHC\u30115/25(\u91d1) \u4e0a\u5ff5\u53f8\u00d7\u5927\u9ad8\u672a\u8cb4\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "34YloKAiRkY",
+                    "video_title": "\u3010DHC\u30115/15(\u706b) \u767e\u7530\u5c1a\u6a39\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "dLK8TuC631k",
+                    "video_title": "\u3010DHC\u30115/3(\u6728) \u6709\u672c\u9999\u00d7\u77f3\u5e73\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "nvzfO4GG5ug",
+                    "video_title": "\u3010DHC\u30116/5(\u706b) \u767e\u7530\u5c1a\u6a39\u00d7\u5c71\u7530\u5409\u5f66\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "VwdETREi5ow",
+                    "video_title": "\u3010DHC\u30115/10(\u6728) \u6709\u672c\u9999\u00d7\u7af9\u7530\u6052\u6cf0\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u30b2\u30b9\u30c8\uff1a\u5c71\u8c37\u3048\u308a\u5b50 \u53c2\u8b70\u9662\u8b70\u54e1\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "YVk7tbKY37k",
+                    "video_title": "\u3010DHC\u30113/19\u6708 \u539f\u82f1\u53f2\u00d7\u5cb8\u535a\u5e78\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "L5aegmxAyto",
+                    "video_title": "\u3010DHC\u30112/12\u6708 \u9752\u5c71 \u7e41\u6674\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "3ov6mGqARvM",
+                    "video_title": "\u300e\u771f\u76f8\u6df1\u5165\u308a\uff01\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9 \u697d\u5c4b\u5165\u308a\uff01\u300f2018/3/9\u914d\u4fe1",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "CF6GNtrTJns",
+                    "video_title": "\u3010DHC\u30115/21(\u6708) \u9752\u5c71\u7e41\u6674\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "QGhFKbvZW5E",
+                    "video_title": "\u3010DHC\u30114/18(\u6c34) \u85e4\u4e95\u53b3\u559c\u00d7\u4e95\u4e0a\u548c\u5f66\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "U2cbAnXr3Ko",
+                    "video_title": "\u3010DHC\u30112/26\u6708 \u9752\u5c71 \u7e41\u6674\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "rBJBJPlRi2I",
+                    "video_title": "\u3010DHC\u30112/20(\u706b) \u767e\u7530\u5c1a\u6a39\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "WA4wc7qGSDI",
+                    "video_title": "\u3010DHC\u30113/21(\u6c34) \u85e4\u4e95\u53b3\u559c\u00d7\u4e95\u4e0a\u548c\u5f66\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "DDsjUtaQsgw",
+                    "video_title": "\u3010DHC\u30113/6(\u706b) \u767e\u7530\u5c1a\u6a39\u00d7\u7530\u5317\u771f\u6a39\u5b50\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "ZL7nwLyWYww",
+                    "video_title": "\u3010DHC\u30114/23(\u6708) \u9752\u5c71\u7e41\u6674\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "faUK0wjV3aI",
+                    "video_title": "\u3010DHC\u30113/2(\u91d1) \u5927\u9ad8\u672a\u8cb4\u00d7\u4e0a\u5ff5\u53f8\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "CUVGUlfZ8ok",
+                    "video_title": "\u300e\u771f\u76f8\u6df1\u5165\u308a\uff01\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9 \u697d\u5c4b\u5165\u308a\uff01\u300f2018/5/25\u914d\u4fe1",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "h5isK6A2giQ",
+                    "video_title": "\u3010DHC\u30112/7(\u6c34) \u85e4\u4e95\u53b3\u559c\u00d7\u4e95\u4e0a\u548c\u5f66\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "rFNrOqDfsjk",
+                    "video_title": "\u3010DHC\u30114/19(\u6728) \u6709\u672c\u9999\u00d7\u30b1\u30f3\u30c8\u30fb\u30ae\u30eb\u30d0\u30fc\u30c8\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "k9M6yrBsez8",
+                    "video_title": "\u300e\u771f\u76f8\u6df1\u5165\u308a\uff01\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9 \u697d\u5c4b\u5165\u308a\uff01\u300f2018/4/6\u914d\u4fe1",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "6N7r3Z9qXvQ",
+                    "video_title": "\u3010DHC\u30112/21(\u6c34) \u85e4\u4e95\u53b3\u559c\u00d7\u4e95\u4e0a\u548c\u5f66\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "yzUOGXscUhU",
+                    "video_title": "\u3010DHC\u30114/5(\u6728) \u6709\u672c\u9999\u00d7\u77f3\u5e73\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "OIt75bcjp7Q",
+                    "video_title": "\u3010DHC\u30114/25(\u6c34) \u30b1\u30f3\u30c8\u30fb\u30ae\u30eb\u30d0\u30fc\u30c8\u00d7\u534a\u4e95\u5c0f\u7d75\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "71B7GBm4Hfg",
+                    "video_title": "\u300e\u771f\u76f8\u6df1\u5165\u308a\uff01\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9 \u697d\u5c4b\u5165\u308a\uff01\u300f2018/4/20\u914d\u4fe1",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "6bOR36DhAZg",
+                    "video_title": "\u3010DHC\u30115/18(\u91d1) \u6b66\u7530\u90a6\u5f66\u00d7\u9808\u7530\u614e\u4e00\u90ce\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "wXwFUDg1Xjg",
+                    "video_title": "\u3010DHC\u30114/3(\u706b) \u767e\u7530\u5c1a\u6a39\u00d7\u963f\u6bd4\u7559\u7460\u6bd4\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "bEhUemAk4WY",
+                    "video_title": "\u3010DHC\u30112/19\u6708 \u9752\u5c71\u7e41\u6674\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "2MdLirxityY",
+                    "video_title": "\u3010DHC\u30116/4(\u6708) \u9752\u5c71\u7e41\u6674\u00d7\u6709\u672c\u9999\u00d7\u30b1\u30f3\u30c8\u30fb\u30ae\u30eb\u30d0\u30fc\u30c8\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "PLRg18EZL3k",
+                    "video_title": "\u3010DHC\u30115/17(\u6728) \u6709\u672c\u9999\u00d7\u8429\u751f\u7530\u5149\u4e00\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "xH6j4Bk1Mrg",
+                    "video_title": "\u3010DHC\u30115/8(\u706b) \u767e\u7530\u5c1a\u6a39\u00d7\u7e54\u7530\u90a6\u7537\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "UxtQJWm-GOg",
+                    "video_title": "\u3010DHC\u30115/2(\u6c34) \u85e4\u4e95\u53b3\u559c\u00d7\u4e95\u4e0a\u548c\u5f66\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "wQbcOfRkfYk",
+                    "video_title": "\u3010DHC\u30112/22(\u6728) \u6709\u672c\u9999\u00d7\u7af9\u7530\u6052\u6cf0\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "uozKv54gob4",
+                    "video_title": "\u3010DHC\u30113/30(\u91d1) \u5927\u9ad8\u672a\u8cb4\u00d7\u4e0a\u5ff5\u53f8\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "FhXUXr5EzME",
+                    "video_title": "\u3010DHC\u30115/1(\u706b) \u767e\u7530\u5c1a\u6a39\u00d7\u7530\u5317\u771f\u6a39\u5b50\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "6vnmgVSbwLo",
+                    "video_title": "\u3010DHC\u30113/5\u6708 \u77f3\u5e73\u00d7\u9ad8\u6a4b\u6d0b\u4e00\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "AXwIWMfHVek",
+                    "video_title": "\u3010DHC\u30114/20(\u91d1) \u6b66\u7530\u90a6\u5f66\u00d7\u9808\u7530\u614e\u4e00\u90ce\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "5FRmqjdtVVY",
+                    "video_title": "\u3010DHC\u30113/12\u6708 \u30b1\u30f3\u30c8\u30fb\u30ae\u30eb\u30d0\u30fc\u30c8\u00d7\u4e0a\u5ff5\u53f8\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 3
+                },
+                {
+                    "video_id": "z1Cg1IYbNeM",
+                    "video_title": "\u3010DHC\u30112/23(\u91d1) \u6b66\u7530\u90a6\u5f66\u00d7\u9808\u7530\u614e\u4e00\u90ce\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "gFP_Coi71c8",
+                    "video_title": "\u3010DHC\u30112/14(\u6c34) \u30b1\u30f3\u30c8\u30fb\u30ae\u30eb\u30d0\u30fc\u30c8\u00d7\u534a\u4e95\u5c0f\u7d75\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Z1UFiaBxr1k",
+                    "video_title": "\u3010DHC\u30115/23(\u6c34) \u4e0a\u5ff5\u53f8\u00d7\u30b1\u30f3\u30c8\u30fb\u30ae\u30eb\u30d0\u30fc\u30c8\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Oc3lTMvQaeA",
+                    "video_title": "\u3010DHC\u30116/1(\u91d1) \u6b66\u7530\u90a6\u5f66\u00d7\u9808\u7530\u614e\u4e00\u90ce\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "wN_AvLzBpZc",
+                    "video_title": "\u3010DHC\u30114/4(\u6c34) \u85e4\u4e95\u53b3\u559c\u00d7\u4e95\u4e0a\u548c\u5f66\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "oczgr8WS0mY",
+                    "video_title": "\u3010DHC\u30112/16(\u91d1) \u4e0a\u5ff5\u53f8\u00d7\u5927\u9ad8\u672a\u8cb4\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "RaICQ5uXPpo",
+                    "video_title": "\u3010DHC\u30114/16(\u6708) \u9752\u5c71\u7e41\u6674\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Nm_G9ujwG9Q",
+                    "video_title": "\u3010DHC\u30113/28(\u6c34) \u30b1\u30f3\u30c8\u30fb\u30ae\u30eb\u30d0\u30fc\u30c8\u00d7\u534a\u4e95\u5c0f\u7d75\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "L5aegmxAyto",
+                    "video_title": "\u3010DHC\u30112/12\u6708 \u9752\u5c71 \u7e41\u6674\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "GbOUprF2Nio",
+                    "video_title": "\u3010DHC\u30112/28(\u6c34) \u30b1\u30f3\u30c8\u30fb\u30ae\u30eb\u30d0\u30fc\u30c8\u00d7\u534a\u4e95\u5c0f\u7d75\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "2HRdj3K1a-M",
+                    "video_title": "\u3010DHC\u30116/12(\u706b) \u767e\u7530\u5c1a\u6a39\u00d7\u548c\u7530\u653f\u5b97\u00d7\u6709\u672c\u9999\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "lFTb71xwk9M",
+                    "video_title": "\u3010DHC\u30113/8(\u6728) \u6709\u672c\u9999\u00d7\u9ad8\u5e02\u65e9\u82d7\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "ANvNV4-mT2c",
+                    "video_title": "\u300e\u771f\u76f8\u6df1\u5165\u308a\uff01\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9 \u697d\u5c4b\u5165\u308a\uff01\u300f2018/6/1\u914d\u4fe1",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "pw_XUotmaSA",
+                    "video_title": "\u3010DHC\u30114/6(\u91d1) \u6b66\u7530\u90a6\u5f66\u00d7\u9808\u7530\u614e\u4e00\u90ce\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "T9knX49K5FQ",
+                    "video_title": "\u3010DHC\u30114/27(\u91d1) \u4e0a\u5ff5\u53f8\u00d7\u5927\u9ad8\u672a\u8cb4\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "Y_SKxfKTH10",
+                    "video_title": "\u3010DHC\u30116/6(\u6c34) \u4e95\u4e0a\u548c\u5f66\u00d7\u85e4\u4e95\u53b3\u559c\u00d7\u5c45\u5cf6\u4e00\u5e73\u3010\u864e\u30ce\u9580\u30cb\u30e5\u30fc\u30b9\u3011",
+                    "trending_days": 1
+                }
+            ]
+        },
+        {
+            "channel_name": "\u91e3\u308a\u3088\u304b\u3067\u3057\u3087\u3046\u3002",
+            "total_trending_days": 84,
+            "videos_days": [
+                {
+                    "video_id": "pMI1V-iiboI",
+                    "video_title": "\u30d8\u30d3\u307f\u305f\u3044\u306a\u9b5a\u304c\u3053\u3053\u307e\u3067\u5de8\u5927\u306b\u30fb\u30fb\u30fb\uff01\uff1f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "DGFVdbWHafo",
+                    "video_title": "\u91e3\u3063\u3066\u304d\u305f\u30ae\u30ac\u30a2\u30b8\u3092\u8ecd\u8266\u5dfb\u304d\u306b\u3059\u308b\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "tiE_A8i9Obs",
+                    "video_title": "\u91e3\u308a\u3088\u304b\u521d\u306e\u30d5\u30ab\u30bb\u91e3\u308a\u3067\u9752\u3044\u77b3\u306e\u9b5a\u304c\u91e3\u308c\u305f\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "meS3itC_gdI",
+                    "video_title": "\u30c0\u30b8\u30e3\u30ec\u6599\u7406\uff1f\u30bf\u30b3\u3067\u30bf\u30b3\u30e9\u30a4\u30b9\u3092\u4f5c\u308b\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "eBIPw6VMZTQ",
+                    "video_title": "\u30a4\u30ab\u3092\u72d9\u3063\u305f\u306f\u305a\u304c\u4e88\u60f3\u5916\u306e\u751f\u7269\u304c\u304b\u304b\u3063\u305f\u30fb\u30fb\u30fb",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "8tyLtmWb6xQ",
+                    "video_title": "\u9bad\u3058\u3083\u306a\u3044\u3007\u3007\u306e\u8179\u304b\u3089\u5e7b\u306e\u9ec4\u91d1\u30a4\u30af\u30e9\u304c\u30fb\u30fb\u30fb",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "vn4mcriGtIU",
+                    "video_title": "\u6bce\u6295\u91e3\u308c\u308b\uff01\uff1f\u30db\u30bf\u30eb\u30a4\u30ab\u30d1\u30bf\u30fc\u30f3\u306e\u91e3\u308a\u3067\u5927\u7206\u91e3\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "NS3Klzo839E",
+                    "video_title": "\u30b7\u30e7\u30a2\u30b8\u30ae\u30f3\u30b0\u3067\u9752\u7269\u3092\u72d9\u3046\uff01\u8fd4\u308a\u8a0e\u3061\u306b\u3042\u3063\u305f\u96e2\u5cf6\u306b\u30ea\u30d9\u30f3\u30b8\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "#NAME?",
+                    "video_title": "\u3010\u8d05\u6ca2\u3011\u5de8\u5927\u9ad8\u7d1a\u30a4\u30ab\u3092\u4f7f\u3063\u3066\u8d85\u8c6a\u83ef\u30d5\u30eb\u30b3\u30fc\u30b9\u6599\u7406\u306b\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "-09XygZcXEU",
+                    "video_title": "\u91e3\u3063\u305f\u9b5a\u3067\u7d76\u54c1\u6d77\u9bae\u30c1\u30c2\u30df\u3092\u4f5c\u308b\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "W4cZqsZgZs0",
+                    "video_title": "\u539f\u70b9\u56de\u5e30\uff01\u738b\u9053\u306e\u8d85\u7d76\u54c1\u6599\u7406\u3092\u98df\u3079\u3066\u3082\u3089\u3046!!",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "wrzNa91Rj44",
+                    "video_title": "\u91e3\u3063\u305f\u9b5a\u3067\u98e2\u3048\u3092\u51cc\u3050\uff01\u96e2\u5cf6\u3067\u30b5\u30cf\u3099\u30a4\u30cf\u3099\u30eb\u98ef\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Jk2xSclXb9U",
+                    "video_title": "\u6fc3\u904e\u304e\u308b\u30b3\u30a6\u30a4\u30ab\u306e\u30a4\u30ab\u58a8\u3067\u771f\u3063\u9ed2\u306e\u30cf\u30f3\u30d0\u30fc\u30b0\u3092\u4f5c\u3063\u3066\u307f\u305f\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "6I_iZoA0zeU",
+                    "video_title": "\u30ec\u30f3\u30bf\u30eb\u30dc\u30fc\u30c8\u3067\u6d77\u306b\u51fa\u305f\u3089\u307e\u305f\u3042\u306e\u55a7\u5629\u304c\u59cb\u307e\u3063\u305f\u30fb\u30fb\u30fb",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "tobvJiE6tmk",
+                    "video_title": "\u3053\u308c\u304c\u98df\u306e\u9032\u5316!?\u65b0\u305f\u306a\u30a4\u30ab\u5375\u9ec4\u3092\u958b\u767a\u3057\u305f!!",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "iYu1k3ZiSwM",
+                    "video_title": "\u9060\u5f813\u65e5\u76ee\uff01\u6e13\u6d41\u91e3\u308a\u3067\u30cb\u30b8\u30de\u30b9\u3092\u72d9\u3046\u304c\u30fb\u30fb\u30fb",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "fA1dYQxzzjA",
+                    "video_title": "\u91e3\u308a\u3088\u304b\u30eb\u30a2\u30fc\u3067\u5f85\u671b\u306e\u3042\u306e\u9b5a\u304c\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "8Soz4ZuNKF8",
+                    "video_title": "\u51ac\u306b\u7f8e\u5473\u3057\u3044\u30ae\u30e7\u30ed\u76ee\u306e\u9b5a\u3092\u8abf\u7406\u3059\u308b\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "5goJ07oaZp0",
+                    "video_title": "\u751f\u304d\u305f\u30a2\u30b8\u3092\u6cf3\u304c\u305b\u3066\u25ef\u25ef\u25ef\u304c\u91e3\u308c\u305f\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "u-x6FqgfzKs",
+                    "video_title": "1\u5339\u304b\u30892\u3064\u3057\u304b\u53d6\u308c\u306a\u3044\u5e7b\u306e\u98df\u6750\u3092\u98df\u3079\u308b\uff01\uff01",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "9kt0TxkHLiM",
+                    "video_title": "\uff15\uff10\u30aa\u30fc\u30d0\u30fc\u306e\u30d0\u30b9\u304c\u5927\u91cf\u306b\uff01\uff1f\u91e3\u308a\u3088\u304b\u65b0\u8a18\u9332\u3092\u672c\u6c17\u3067\u72d9\u3046\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "QHUj71CF7EE",
+                    "video_title": "\u30c7\u30ab\u30a4!!\u8239\u3067\uff12kg\u30aa\u30fc\u30d0\u30fc\u306e\u30a4\u30ab\u3092\u72d9\u3046\uff01",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "uB0h-7Kn3Y8",
+                    "video_title": "\u96ea\u56fd\u3067\u91e3\u3063\u305f\u5927\u91cf\u306e\u30ef\u30ab\u30b5\u30ae\u3092\u3007\u3007\u3067\u63da\u3052\u308b\u3068\u6fc0\u30a6\u30de\u306b\uff01\uff01\uff03\uff13",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "tcir-m7YtoM",
+                    "video_title": "\u6f6e\u5e72\u72e9\u308a\u306b\u884c\u3063\u305f\u3089\u3042\u306e\u9ad8\u7d1a\u8c9d\u304c\u30fb\u30fb\u30fb\uff01\uff1f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "UkoV2-koBUQ",
+                    "video_title": "\u3010\u8d85\u904e\u9177\u3011-10\u2103\u306e\u96ea\u5c71\u3067\u30ad\u30e3\u30f3\u30d7\u306b\u30c1\u30e3\u30ec\u30f3\u30b8\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "S5vhdlDmjqs",
+                    "video_title": "\u6c37\u306e\u7a74\u91e3\u308a\uff1f\u96e3\u3057\u3055\u306b\u30e1\u30f3\u30d0\u30fc\u5927\u82e6\u6226\uff01\u3010\u30ef\u30ab\u30b5\u30ae\u91e3\u308a\u3011\uff03\uff12",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Nm0eWaE252k",
+                    "video_title": "\u6e13\u6d41\u306e\u5973\u738b\u3068\u547c\u3070\u308c\u308b\u7f8e\u3057\u3044\u9b5a\u3092\u91e3\u308b\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "ATl3ardB3r8",
+                    "video_title": "\u6eb6\u5ca9\u307f\u305f\u3044\u306a\u30d6\u30e9\u30c3\u30af\u5929\u3077\u3089\u3092\u98df\u3079\u308b\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "rZS2jCfp7ho",
+                    "video_title": "\u30b3\u30a6\u30a4\u30ab\u306e\u6fc3\u3044\u30a4\u30ab\u58a8\u3092\u4f7f\u3063\u3066\u30a4\u30ab\u58a8\u30d1\u30b9\u30bf\u3092\u4f5c\u308b\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Wnn7ZXDUz70",
+                    "video_title": "\u7528\u6c34\u8def\u3067\u624b\u304c\u9577\u3044\u30a8\u30d3\u91e3\u3063\u3066\u307f\u305f\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "fXs2kY7j6Dg",
+                    "video_title": "\u91e3\u308c\u305f\u30a4\u30ab\u3068\u6839\u9b5a\u3067\u4f5c\u308b\u6d77\u9bae\u30e6\u30c3\u30b1\u4e3c\u304c\u7f8e\u5473\u3059\u304e\u305f\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "6R43hkHxGJ8",
+                    "video_title": "\u30a2\u30e9\u30ab\u30d6\u3092\u30db\u30c3\u30c8\u30c9\u30c3\u30af\u98a8\u306b\u6599\u7406\u3057\u3066\u307f\u305f\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "AKU05n325Ck",
+                    "video_title": "\u9678\u304b\u3089\u9752\u7269\u306e\u7fa4\u308c\u306b\u30eb\u30a2\u30fc\u3092\u6295\u3052\u305f\u3089\u30fb\u30fb\u30fb\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "ZK2MwfMxcSc",
+                    "video_title": "\u7206\u98a8\uff01\u8d85\u60aa\u6761\u4ef6\u306e\u4e2d\u3067\u3082\u795e\u6280\u3092\u4f7f\u3048\u3070\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "EOGPnfA_tR0",
+                    "video_title": "\u591c\u306e\u30db\u30bf\u30eb\u30a4\u30ab\u63ac\u3044\u306b\u6311\u6226\uff01\u7206\u6e67\u304d\u306a\u308b\u304b\uff01\uff1f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "28iiy8aOG1w",
+                    "video_title": "\u4e00\u5e74\u3076\u308a\u306e\u5cf6\uff01\u30c7\u30ab\u30a4\u30ab\u306b\u4eca\u5e74\u3082\u30c1\u30e3\u30ec\u30f3\u30b8\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "vUOyBUXSBTI",
+                    "video_title": "\u7121\u9650\u306b\u30a4\u30ab\u304c\u91e3\u308c\u308b\u30a4\u30ab\u30e1\u30bf\u30eb\u3092\u3084\u3063\u3066\u307f\u305f\u3089\u30fb\u30fb\u30fb",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "ccQSvRxFRx4",
+                    "video_title": "\u30a4\u30ab\u306e\u8056\u5730\u4e94\u5cf6\u9060\u5f81\u6700\u7d42\u65e5\uff01\u30c7\u30ab\u30a4\u30ab\u30b2\u30c3\u30c8\u306a\u308b\u304b\uff1f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "77cjCgXxoGM",
+                    "video_title": "\u30a4\u30ab\u304c\u5927\u7206\u91e3\uff01\u76ee\u306e\u524d\u3067\u30a8\u30ae\u304c\u98df\u3079\u3089\u308c\u308b\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "hmrKjDgVpwI",
+                    "video_title": "\u6975\u5bd2\u306e\u4e2d\u3064\u3044\u306b\u6e13\u6d41\u306e\u738b\u69d8\u3092\u6355\u7372\u3057\u305f\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "GWQ6AtZOkfI",
+                    "video_title": "\u91e3\u308c\u305f\u30bf\u30b3\u3068\u30a4\u30ab\u3067\u30bf\u30b3\u713c\u304d\u3092\u4f5c\u308b\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "7lhRoSe-POc",
+                    "video_title": "\u9678\u304b\u3089\u5927\u9060\u6295\u3057\u305f\u3089\u30c7\u30ab\u3044\u30ad\u30b9\u304c\u5927\u7206\u91e3\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "AM7KcJ8Y_1Q",
+                    "video_title": "\uff11\uff10\u30ad\u30ed\u30d6\u30ea\u3092\u72d9\u3063\u3066\u305f\u3089\u5168\u8eab\u30cc\u30eb\u30cc\u30eb\u306e\u5de8\u5927\u9b5a\u304c\u91e3\u308c\u305f\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "IqCrzdjdAbY",
+                    "video_title": "\u6c37\u4e0a\u30ef\u30ab\u30b5\u30ae\u91e3\u308a\u5bfe\u6c7a!\uff01\u521d\u4ee3\u30ef\u30ab\u30b5\u30ae\u738b\u304c\u3064\u3044\u306b\u6c7a\u5b9a\uff01 \uff035",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "wIdrjXroKC0",
+                    "video_title": "\u91e3\u3063\u3066\u304d\u305f\u30a2\u30b8\u3068\u30a2\u30e9\u30ab\u30d6\u3067\u30b7\u30fc\u30d5\u30fc\u30c9\u30d4\u30b6\u3092\u4f5c\u308b\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "d23rncqyoWI",
+                    "video_title": "\u8d85\u7d76\u54c1\uff01\u8d05\u6ca2\uff01\u30db\u30bf\u30eb\u30a4\u30ab\u5c3d\u304f\u3057\u6599\u7406\u304c\u3053\u308c\u3060\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "vd5SIz-tNd0",
+                    "video_title": "\u521d\u3081\u3066\u306e\u96e2\u5cf6\u3067\u306e\u7a74\u91e3\u308a\uff01\u5de8\u5927\u306a\u30c6\u30c8\u30e9\u306e\u4e2d\u306b\u5165\u3063\u3066\u3044\u304f\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "bmRWJi7I6bM",
+                    "video_title": "\u3064\u3044\u306b\u304d\u305f\uff01\u5bcc\u5c71\u306e\u795e\u79d8\u30db\u30bf\u30eb\u30a4\u30ab\u306e\u8eab\u6295\u3052\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "V3Ervz5ji0E",
+                    "video_title": "\u30d5\u30a3\u30c3\u30b7\u30f3\u30b0\u30b7\u30e7\u30fc\u5927\u962a\u3067\u30b7\u30de\u30ce\u30d6\u30fc\u30b9\u306b\u7a81\u6483\u53d6\u6750!!",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "VgYUkbAWDtg",
+                    "video_title": "\u6839\u9b5a\u3092\u72d9\u3046\u4e88\u5b9a\u304c1\u4eba\u91e3\u308a\u7121\u53cc\u3057\u3060\u3057\u305f\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "n6wxDoAs6_4",
+                    "video_title": "\u30a2\u30aa\u30ea\u30a4\u30ab\u30d1\u30e9\u30c0\u30a4\u30b9\u3068\u805e\u3044\u3066\u3084\u3063\u3066\u304d\u305f\u304c\u30fb\u30fb\u30fb",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "2r7aXvx4-Ps",
+                    "video_title": "\u96e2\u5cf6\u3078\u5de8\u5927\u30a4\u30ab\u30ea\u30d9\u30f3\u30b8\uff01...\u306e\u306f\u305a\u304c\uff1f\uff1f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "lak76KUMECI",
+                    "video_title": "\u798f\u5cf6\u770c\u306b\u521d\u4e0a\u9678\uff01\u9053\u4e2d\u307e\u3055\u304b\u306e\u906d\u96e3!!\u3010\u30ef\u30ab\u30b5\u30ae\u91e3\u308a\u3078\u3011\uff03\uff11",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "bFh6jkI02iM",
+                    "video_title": "\u91e3\u3063\u305f\u30af\u30ed\u3068\u5e02\u5834\u3067\u8cfc\u5165\u3057\u305f\u65b0\u9bae\u306a\u9b5a\u3092\u4f7f\u3063\u3066\u6599\u7406\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "#NAME?",
+                    "video_title": "\u7d2b\u8272\u306e\u9bdb\uff1f\u8cb8\u3057\u8239\u3067\u5de8\u5927\u9b5a\u304c\u91e3\u308c\u305f\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "SrU1SqPZZg0",
+                    "video_title": "\u5de8\u5927\u306a\u9752\u7269\u3092\u91e3\u3063\u3066\u3064\u3044\u3067\u306b\u6625\u30a4\u30ab\u3082\u72d9\u3063\u3066\u307f\u305f\u304c\u30fb\u30fb\u30fb\uff1f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "4nS2EUaKy8E",
+                    "video_title": "\u77ed\u6642\u9593\u3067\u9752\u7269\u7011\u91e3!?\u91e3\u308a\u697d\u3057\u3044\u306d\u301c\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "pjDP7HEo1Fs",
+                    "video_title": "\u771f\u51ac\u306e\u6709\u660e\u6d77\u3067\u6c96\u30e1\u30d0\u30eb\uff01\u7206\u91e3\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "6qFv0_1yzqc",
+                    "video_title": "\u91e3\u3063\u305f\u30bf\u30b3\u3092\u6295\u3052\u305f\u3089\u6bd2\u9b5a\u304c\u91e3\u308c\u305f\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "LsiOAeewM38",
+                    "video_title": "\u96e2\u5cf6\u306f\u591c\u3082\u8abf\u5b50\u304c\u826f\u304b\u3063\u305f\uff01\u30ad\u30ed\u30a2\u30c3\u30d7\u306e\u30a4\u30ab\u3092\u72d9\u3046\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "605STbJTJLw",
+                    "video_title": "\u30c8\u30c3\u30d7\u3067\u72d9\u3048\uff0110\u338f\u7d1a\u306e\u6625\u306e\u30d2\u30e9\u30de\u30b5\uff01\uff01 #1",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "YD81VwGvUBc",
+                    "video_title": "\u30b7\u30fc\u30ba\u30f3\u5230\u6765\uff01\u30ad\u30b9\u91e3\u308a\u3092\u3057\u3066\u305f\u3089\u307e\u3055\u304b\u306e\u25cb\u25cb\u304c\u91e3\u308c\u305f\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "xBpjDxXoQKs",
+                    "video_title": "\u30ad\u30e3\u30f3\u30d4\u30f3\u30b0\u30ab\u30fc\u3067\u521d\u306e\u30ad\u30e3\u30f3\u30d7\uff01\u30a2\u30de\u30b4\u91e3\u3063\u305f\u6599\u7406\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "LyN5lUoKYE0",
+                    "video_title": "\u91e3\u3063\u305f\u30ef\u30ab\u30b5\u30ae\u3067\u8d85\u7c21\u5358\uff01\u7d76\u54c1\u91e3\u308a\u4eba\u6599\u7406\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "XPBZspgVGcA",
+                    "video_title": "\u30a2\u30a4\u30c9\u30eb\u00d7\u304a\u3063\u3055\u3093\u3067\u91e3\u308a\u3092\u3057\u305f\u3089\u5927\u5909\u3060\u3063\u305f\u30fb\u30fb\u30fb\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "gW1GzBder-Q",
+                    "video_title": "\u5927\u91cf\u306b\u91e3\u3063\u3066\u304d\u305f\u30ad\u30b9\u3092\u5929\u3077\u3089\u306b\uff01\u6fc0\u30a6\u30de\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "t0wcAdMIxv0",
+                    "video_title": "\u8d85\u5e0c\u5c11!?\u91e3\u308a\u5bfe\u6c7a\u3067\u8d85\u30ad\u30ec\u30a4\u306a\u9b5a\u304c\u91e3\u308c\u305f!!",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "eB9FGIrFC7o",
+                    "video_title": "\u7384\u6d77\u7058\u306e\u5bd2\u30d6\u30ea\u3067\u4e09\u7a2e\u306e\u7d76\u54c1\u6599\u7406\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "XnSdt-5qjaA",
+                    "video_title": "\u30ad\u30e3\u30f3\u30d4\u30f3\u30b0\u30ab\u30fc\u3067\u30c0\u30e0\u3068\u6d77\u3078\u9060\u5f81\uff01\u4e45\u3057\u3076\u308a\u306e\u9b5a\u304c\u91e3\u308c\u305f\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "81KgGf-PX9o",
+                    "video_title": "\u8d85\u7d76\u54c1!!\u91e3\u308a\u3088\u304b\u53f2\u4e0a\u6700\u9ad8\u306e\u30d1\u30b9\u30bf\u3092\u4f5c\u308b\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "g3e9iJXqQhQ",
+                    "video_title": "\u4eca\u56de\u306f\u3042\u306e\u25ef\u25ef\u91e3\u308a\u306b\u6311\u6226\uff01\u71b1\u3044\u5bfe\u6c7a\u304c\u59cb\u307e\u308b\uff01\uff03\uff14",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "dH92j1RhNNc",
+                    "video_title": "\u8857\u4e2d\u306e\u5ddd\u3067\u30c1\u30cc\u304c\u30c8\u30c3\u30d7\u3067\u70b8\u88c2\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "vlh1jD0COCw",
+                    "video_title": "\u9bdb\u306e\u767d\u5b50\u30c1\u30e3\u30ec\u30f3\u30b8\uff01\uff01\u4eca\u5e74\u306f\u30b2\u30c3\u30c8\u51fa\u6765\u308b\u306e\u304b\uff1f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "9Oatwl0daBs",
+                    "video_title": "\u3010\u5de8\u5927\u30a4\u30ab\u3011\u548c\u4e38\u8239\u30a8\u30ae\u30f3\u30b0\uff012\u30ad\u30ed\u30a2\u30c3\u30d7\u72d9\u3044\u3067\u8a18\u9332\u66f4\u65b0\uff01\uff1f\uff01\uff1f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "LZVKkzUCXVE",
+                    "video_title": "\u5168\u9577\uff11m\uff14\uff15cm\u306e\u5de8\u5927\u30cf\u30e2\u3092\u3055\u3070\u3044\u3066\u98df\u3079\u308b\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "3NEw-56fw2g",
+                    "video_title": "\u91e3\u3063\u305f\u30b9\u30ba\u30ad\u3067\u30d4\u30ea\u8f9b\u306a\u3042\u306e\u6599\u7406\uff01\u307f\u3063\u3074\u7dca\u6025\u53c2\u6226\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "rQbYK_0Dpxc",
+                    "video_title": "\u3064\u3044\u306b\u8a18\u9332\u66f4\u65b0\uff01\u91e3\u308a\u3088\u304b\u53f2\u4e0a\u6700\u5927\u306e\u25ef\u25ef\u304c\u91e3\u308c\u305f\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "bvDKX3hXAXY",
+                    "video_title": "\u7d76\u54c1\uff01\u91e3\u3063\u305f\u9ad8\u7d1a\u9b5a\u3092\u3042\u306e\u6599\u7406\u306b\u3057\u3066\u307f\u305f\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "wvM4fxVDvQQ",
+                    "video_title": "\u91e3\u308a\u30ac\u30fc\u30eb\uff13\u4eba\u3068\u91e3\u308a\u3092\u3057\u305f\u3089\u840c\u3048\u6b7b\u306b\u3057\u305f\u30fb\u30fb\u30fb",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "sxBMG0mjZKQ",
+                    "video_title": "\u89e3\u7981\u65e5\u306b\u91e3\u3063\u305f\u30e4\u30de\u30e1\u3067\u3042\u306e\u7d76\u54c1\u6599\u7406\u3092\u518d\u73fe\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "-4sTmNTKmGM",
+                    "video_title": "\u91e3\u3063\u305f\u30a2\u30b8\u3068\u30b7\u30fc\u30d0\u30b9\u3067\u30cf\u30f3\u30d0\u30fc\u30b0\u30cf\u30f3\u30d0\u30fc\u30ac\u30fc\uff01\uff1f",
+                    "trending_days": 1
+                }
+            ]
+        },
+        {
+            "channel_name": "MAX\u9234\u6728 TV",
+            "total_trending_days": 67,
+            "videos_days": [
+                {
+                    "video_id": "UHuCI_b3wBs",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u305a\u3045\u30fc\u30fc\u30fc\u3063\u3068\u884c\u304d\u305f\u304b\u3063\u305f\u304a\u5e97\u3067\u98df\u3079\u308b\u30c7\u30ab\u76db\u308a2\u54c1\uff086kg\u8d85\uff09\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "ZOoJMu4JSH4",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30c1\u30e3\u30ec\u30f3\u30b8\u30e9\u30fc\u30e1\u30f3\uff0830\u5206\uff09\u71b1\u3005\u30d0\u30c8\u30eb\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011\u3010Max Suzuki\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "virA-R2jlQo",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u3010\u30e9\u30a4\u30d6\u3011\u3046\u3069\u3093\u5c4b\u3055\u3093\u3067\u30c7\u30ab\u76db\u308a\u30e9\u30a4\u30d6\u203c\ufe0fin \u795e\u4fdd\u753a\u300c\u76f4\u767d\u300d\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "wspm77W3-n0",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u5143\u529b\u58eb\u306e\u65b9\u304c\u3084\u3063\u3066\u3044\u308b\u30e9\u30fc\u30e1\u30f3\u5c4b\u3055\u3093\u3067\u30c7\u30ab\u76db\u308a\u3064\u3051\u9eba\u3092\u98df\u3079\u3066\u307f\u305f\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "2roa5LSE3Js",
+                    "video_title": "\u3010\u26a0\ufe0f\u95b2\u89a7\u6ce8\u610f\u3011\u3010\u5927\u98df\u3044\u3011\u30ab\u30c4\u30ab\u30ec\u30fc\uff088kg\uff09\u5927\u98df\u3044\u30c1\u30e3\u30ec\u30f3\u30b8\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "l2o255Btd3M",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u5927\u597d\u304d\u306a\u8857\u306e\u4e2d\u83ef\u5c4b\u3055\u3093\u3067\u597d\u304d\u306a\u3082\u306e\u3092\u597d\u304d\u306a\u3060\u3051\u98df\u3079\u308b\u203c\ufe0f&\u30c8\u30fc\u30af\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "j3mb5SfpGdA",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30b9\u30fc\u30d1\u30fc\u30e9\u30fc\u30e1\u30f3\uff0830\u5206\uff09\u5927\u98df\u3044\u30c1\u30e3\u30ec\u30f3\u30b8\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Gh2dZkqnjj0",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u4e32\u30ab\u30c4\u5168\u30e1\u30cb\u30e5\u30fc\uff0860\u5206\uff09\u30c1\u30e3\u30ec\u30f3\u30b8\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "pV3M_2nKJzM",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u3010\u65e9\u98df\u3044\u3011\u30ac\u30c1\u306a\u300c\u308f\u3093\u3053\u305d\u3070\u306e\u5927\u4f1a\u300d\u306b\u6311\u6226\u3057\u3066\u307f\u305f\u7d50\u679c\u3001\u3001\u3001\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "d4JGEnhu7jk",
+                    "video_title": "\u3010\u26a0\ufe0f\u95b2\u89a7\u6ce8\u610f\u3011\u3010\u65e9\u98df\u3044\u3011\u30db\u30c3\u30c8\u30c9\u30c3\u30b0\u30c8\u30ec\u30fc\u30cb\u30f3\u30b0\u3092\u73fe\u5f79\u306e\u65e9\u98df\u3044\u9078\u624b\u3068\u5bfe\u6226\u5f62\u5f0f\u3067\u3084\u3063\u3066\u307f\u305f\u203c\ufe0fvs \u795e\u5c71\u3055\u3093\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Ggq9doKKB5I",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u8d85\u8089\u539a\u30b9\u30c6\u30fc\u30ad\uff0830\u5206\uff09\u30c1\u30e3\u30ec\u30f3\u30b8\u30e1\u30cb\u30e5\u30fc\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011\u3010Max Suzuki\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "JE5Q4wV6by0",
+                    "video_title": "\u3010\u26a0\ufe0f\u95b2\u89a7\u6ce8\u610f\u3011\u3010\u5927\u98df\u3044\u3011\u8102\u80aa\u3068\u7cd6\u306e\u697d\u5712\u300e\u30cf\u30fc\u30c8\u30a2\u30bf\u30c3\u30af\u30b0\u30ea\u30eb\u300f\u306b\u884c\u3063\u3066\u307f\u305f\u203c\ufe0fin Las Vegas\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011\u3010Max Suzuki\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "AsYqAjpAXKk",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u91cf\u304c\u9078\u3079\u308b\u30c1\u30e3\u30ec\u30f3\u30b8\u30e1\u30cb\u30e5\u30fc\u3067\u50d5\u304c\u983c\u3093\u3060\u91cf\u306f\u3001\u3001\u3001\u2049\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011\u3010Max Suzuki\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "JNAC_WZnKeQ",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u7279\u76db\u5929\u3077\u3089\u3046\u3069\u3093\uff086kg\uff0940\u5206\u30c1\u30e3\u30ec\u30f3\u30b8\u203c\ufe0fTempura Udon\uff0813lb\uff09food challenge\uff0840min\uff09\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011\u3010Max Suzuki\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "G1WnNAdHCCU",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u8089\u203c\ufe0f\u8089\u203c\ufe0f\u8089\u203c\ufe0f\u306e\u30c1\u30e3\u30ec\u30f3\u30b8\u30e1\u30cb\u30e5\u30fc\uff082.7kg\uff0945\u5206\u30c1\u30e3\u30ec\u30f3\u30b8\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011\u3010Max Suzuki\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "SdJ2RZE0zZs",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u9eba\u30de\u30b7\u3092\u3061\u3087\u3063\u3068\u3084\u308a\u904e\u304e\u3066\u3057\u307e\u3063\u305f\u3001\u3001\u3001\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "m92vaU4-OBY",
+                    "video_title": "\u3010\u26a0\ufe0f\u95b2\u6ce8\u3001\u65e9\u98df\u3044\u3011\u3010\u5927\u98df\u3044\u3011\u30ab\u30ed\u30ea\u30fc\u304c\u30e4\u30d0\u3059\u304e\u308b\u30cf\u30f3\u30d0\u30fc\u30ac\u30fc\u30bb\u30c3\u30c8\uff085kg\uff0930\u5206\u30c1\u30e3\u30ec\u30f3\u30b8\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011\u3010Max Suzuki\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "0fZSM5H_V0M",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30ca\u30dd\u30ea\u30bf\u30f3\u3092\u6c42\u3081\u3066\u30c7\u30ab\u76db\u308a\u5343\u8449\u9060\u5f81\u203c\ufe0fin\u300e\u30ea\u30d0\u30fc\u30b5\u30a4\u30c9\u300f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "S_TyuViJe74",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u5168\u30e1\u30cb\u30e5\u30fc\u306b\u6311\u6226\u203c\ufe0f\u300c\u9811\u8005 \u304a\u53f0\u5834\u5e97\u300d\u7de8\u3002\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "c6WmAEBY-C0",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u65b0\u6f5f\u306e\u65e9\u98df\u3044\u30a4\u30d9\u30f3\u30c8\u3067\u30de\u30b8\u55b0\u3044\u3057\u3066\u304d\u305f\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011\u3010Max Suzuki\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "GjwSLz5ndKE",
+                    "video_title": "\u3010\u26a0\ufe0f\u95b2\u6ce8\u3001\u624b\u63b4\u307f\u3011\u3010\u5927\u98df\u3044\u3011\u30b5\u30fc\u30ed\u30a4\u30f3\u306e\u584a\u8089\uff085kg\uff09\u3092\u624b\u63b4\u307f\u3060\u3051\u3067\u98df\u3079\u3066\u307f\u305f\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Ra2383WH8vY",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u8089\u304c\u98f2\u3081\u305f\u3063\u2049\ufe0f\u30c9\u30c7\u30abMAX\u76db\u308a\u4e3c\uff08\u7d045kg\uff0925\u5206\u30c1\u30e3\u30ec\u30f3\u30b8\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011\u3010Max Suzuki\u3011",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "JBi-ecUJb44",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u3010\u30c7\u30ab\u76db\u308a\u3011\u5927\u767a\u898b\u203c\ufe0f\u3076\u539a\u304f\u3066\u7f8e\u5473\u3057\u3044\u30c8\u30f3\u30ab\u30c4\u3092\u51fa\u3057\u3066\u304f\u308c\u308b\u304a\u5e97\u3055\u3093\u306f\u5c45\u5fc3\u5730\u304c\u6700\u9ad8\u3060\u3063\u305f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "SZk34_cvgHA",
+                    "video_title": "\u3010\u26a0\ufe0f\u95b2\u6ce8\u3001\u9577\u7de8\u3001\u65e9\u98df\u3044\u3011\u3010\u5927\u98df\u3044\u3011\u30c1\u30e3\u30fc\u30cf\u30f3\uff083kg\uff09\u304a\u304b\u305a\u8272\u3005\u30c1\u30e3\u30ec\u30f3\u30b8\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "PLbfEiOsJLQ",
+                    "video_title": "\u3010\u65e9\u98df\u3044\u3011\u30c1\u30e3\u30ec\u30f3\u30b8\u3056\u308b\u305d\u3070\uff081kg\u8d85\uff0910\u5206\u30b9\u30d4\u30fc\u30c9\u30d0\u30c8\u30eb\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011\u3010Max Suzuki\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "#NAME?",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u3042\u307e\u308a\u306b\u7f8e\u5473\u3057\u304f\u3066\u95d8\u4e89\u5fc3\u304c\u524a\u3089\u308c\u3061\u3083\u3063\u305f\u30c1\u30e3\u30ec\u30f3\u30b8\u30e1\u30cb\u30e5\u30fc\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011\u3010Max Suzuki\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "zwxqTChTuY4",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30b8\u30e3\u30fc\u30af\u30c1\u30ad\u30f3\u30b8\u30e3\u30f3\u30d0\u30e9\u30e4\uff083kg\uff0945\u5206\u30c1\u30e3\u30ec\u30f3\u30b8\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "IijcOpfvED0",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u5510\u63da\u3052\u5b9a\u98df\uff086kg\uff09\u30c1\u30e3\u30ec\u30f3\u30b8\u30e1\u30cb\u30e5\u30fc\u306b\u6311\u6226\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011\u3010Max Suzuki\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "aKloNmy1oNo",
+                    "video_title": "\u3010\u26a0\ufe0f\u95b2\u6ce8\u3001\u65e9\u98df\u3044\u3011\u3010\u5927\u98df\u3044\u3011\u30da\u30f3\u30cd\u30a2\u30e9\u30d3\u30a2\u30fc\u30bf\uff083kg\uff0930\u5206\u30c1\u30e3\u30ec\u30f3\u30b8\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "hnPRIBo2J_E",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u524d\u6a4b\u300c\u6804\u4e45\u5eb5\u300d\u3046\u3069\u3093\uff082.5kg\uff0930\u5206\u306b\u30c1\u30e3\u30ec\u30f3\u30b8\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "RRXY2Tfr62c",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u5927\u76db\u308a\u3092\u983c\u3080\u3068\u30c7\u30ab\u76db\u308a\u3067\u51fa\u3066\u304f\u308b\u55ab\u8336\u5e97\u3067\u30ca\u30dd\u30ea\u30bf\u30f3\u3068\u30df\u30fc\u30c8\u30bd\u30fc\u30b9\u3092\u98df\u3079\u3066\u307f\u305f\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "_KOKTrd2qbg",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u3010\u30c7\u30ab\u76db\u308a\u3011\u6803\u6728\u770c\u306b\u3042\u308b\u30c7\u30ab\u76db\u308a\u306e\u3068\u3093\u304b\u3064\u5c4b\u3055\u3093\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "PHHvgosOJtM",
+                    "video_title": "\u3010\u26a0\ufe0f\u95b2\u6ce8\u3001\u5480\u56bc\u97f3\u3011\u3010\u5927\u98df\u3044\u3011\u30c8\u30de\u30db\u30fc\u30af\u30b9\u30c6\u30fc\u30ad\uff085kg\uff09\u5927\u98df\u3044\u30c1\u30e3\u30ec\u30f3\u30b8\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "pFv9zdZRrvw",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30e9\u30fc\u30e1\u30f3\u30b7\u30e7\u30c3\u30d7\u3067\u65e5\u672c\u4e00\u7f8e\u5473\u3044\u3068\u8a00\u308f\u308c\u3066\u3044\u308b\u304a\u5e97\u306e\u5473\u3068\u306f\u3001\u3001\u3001\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "UUw7weYmLz8",
+                    "video_title": "\u3010\u26a0\ufe0f\u95b2\u6ce8\u3001\u5931\u6557\u3011\u3010\u5927\u98df\u3044\u3011\u6d77\u9bae\u4e3c\u306e\u30c1\u30e3\u30ec\u30f3\u30b8\u30e1\u30cb\u30e5\u30fc\u3092\u3057\u305f\u3089\u60f3\u50cf\u3092\u306f\u308b\u304b\u306b\u8d85\u3048\u308b\u96e3\u6613\u5ea6\u3060\u3063\u305f\u3001\u3001\u3001\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "wzQU6l7Xii0",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011SUSURU\u3055\u3093\u3068\u98df\u3079\u308b\u300c\u305f\u308c\u305d\u3070\u300d\u3068\u3044\u3046\u9eba\u203c\ufe0f\u301c\u8c5a\u4e00\u672c\u30c8\u30c3\u30d4\u30f3\u30b0\u3092\u3057\u3066\u301c\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "bM4LLiMur7s",
+                    "video_title": "\u3010\u26a0\ufe0f\u95b2\u6ce8\u3001\u65e9\u98df\u3044\u3011\u3010\u5927\u98df\u3044\u3011\u5927\u98df\u3044\u3068\u65e9\u98df\u3044\u3092\u517c\u306d\u5099\u3048\u305f\u6fc0\u71b1\u30cf\u30f3\u30d0\u30fc\u30b0&\u30ab\u30ec\u30fc\u30e9\u30a4\u30b9\uff083.5kg\uff0920\u5206\u30c1\u30e3\u30ec\u30f3\u30b8\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011\u3010Max Suzuki\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "oHDsr3QBDbs",
+                    "video_title": "\u3010\u26a0\ufe0f\u95b2\u6ce8\u3001\u65e9\u98df\u3044\u3011\u3010\u5927\u98df\u3044\u3011\u30d4\u30c3\u30c4\u30a1\u306e\u5927\u98df\u3044\u30a4\u30d9\u30f3\u30c8\u3067\u9650\u754c\u8d85\u3048\u307e\u3057\u305f\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011\u3010Max Suzuki\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "vXomayJMx9E",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30a4\u30f3\u30c9\u30ab\u30ec\u30fc\uff083.5kg\uff0925\u5206\u30c1\u30e3\u30ec\u30f3\u30b8\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "eJIU0fIZI5s",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u854e\u9ea6\u306e\u30c7\u30ab\u76db\u308a\u3092\u983c\u3093\u3060\u3089\u898f\u683c\u5916\u306e\u30b5\u30a4\u30ba\u304c\u304d\u305f\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "9wzKLL3P3Ss",
+                    "video_title": "\u3010\u26a0\ufe0f\u95b2\u6ce8\u3001\u65e9\u98df\u3044\u3011\u3010\u5927\u98df\u3044\u3011\u5473\u564c\u30e9\u30fc\u30e1\u30f3\uff08\u9eba\u8339\u3067\u524d1kg\uff0915\u5206\u30c1\u30e3\u30ec\u30f3\u30b8\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "9oG6YCaiaPo",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30c7\u30ab\u76db\u308a\u306e\u51b7\u3084\u3057\u4e2d\u83ef\uff085kg\uff09\u3092\u983c\u3093\u3060\u3089\u4e88\u60f3\u4ee5\u4e0a\u306b\u30c7\u30ab\u30a4\u306e\u304c\u304d\u305f\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011\u3010Max Suzuki\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "RAErwJ6Gcn4",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u5510\u63da\u3052\u30c6\u30e9\u76db\u308a\u5b9a\u98df\uff083.5kg\uff0930\u5206\u30c1\u30e3\u30ec\u30f3\u30b8\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "iQnFGs_pvu8",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u300c\u5927\u76db\u308a\u300d\u3092\u983c\u3080\u3068\u51c4\u3044\u76db\u308a\u3067\u51fa\u3066\u304f\u308b\u55ab\u8336\u5e97\u306b\u884c\u3063\u3066\u307f\u305f\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "H4HKXx6G7YE",
+                    "video_title": "\u3010\u26a0\ufe0f\u95b2\u6ce8\u3001\u65e9\u98df\u3044\u3011\u3010\u5927\u98df\u3044\u3011\u5375\u304b\u3051\u3054\u98ef\uff088kg\uff09\u30bf\u30a4\u30e0\u30a2\u30bf\u30c3\u30af\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "oWmFTOkE4rY",
+                    "video_title": "\u3010\u26a0\ufe0f\u95b2\u6ce8\u3001\u65e9\u98df\u3044\u3011\u3010\u5927\u98df\u3044\u3011\u30b9\u30d1\u30b2\u30c3\u30c6\u30a3\u30fc\uff082kg\uff09\u65e9\u98df\u3044\u30c1\u30e3\u30ec\u30f3\u30b8\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "wmV-urzRHLY",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u3010\u98df\u3079\u653e\u984c\u3011\u304b\u3063\u3071\u5bff\u53f8\u306e\u98df\u3079\u653e\u984c\u306f\u304a\u5f97\u611f\u6e80\u8f09\u3067\u5929\u56fd\u3060\u3063\u305f\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "0vfV4KXH3XY",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30ac\u30c1\u306a\u6fc0\u8f9b\u30c1\u30e3\u30ec\u30f3\u30b8\u3092\u3057\u305f\u3089\u3068\u3093\u3067\u3082\u7121\u3044\u4e8b\u306b\u306a\u3063\u3066\u3057\u307e\u3063\u305f\u3001\u3001\u3001\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "acx9kWFklds",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u3010\u30c1\u30e3\u30ec\u30f3\u30b8\u30e1\u30cb\u30e5\u30fc\u3011\u65b0\u3057\u3044\u30c1\u30e3\u30ec\u30f3\u30b8\u30e1\u30cb\u30e5\u30fc\u306e\u8089\u7389\u30b8\u30f3\u30b8\u30e3\u30fc\u4e3cMAX\uff08\u7dcf\u91cd\u91cf\u4e0d\u660e\uff09\u3092\u98df\u3079\u308b\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "UpPt1Uhah2g",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u300c\u30a8\u30d3\u30c1\u30ea\u98ef\u300d\u3068\u3044\u3046\u30e1\u30cb\u30e5\u30fc\u3092\u983c\u3093\u3060\u3089\u4f55\u3060\u304b\u51c4\u3044\u306e\u304c\u51fa\u3066\u304d\u305f\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "1zPdSu-Rzr0",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u3010\u30c7\u30ab\u76db\u308a\u3011\u3076\u3063\u3061\u304e\u3063\u3066\u308b\u9162\u8c5a\u306e\u30c7\u30ab\u76db\u308a\u306b\u51fa\u4f1a\u3063\u305f\u203c\ufe0fin \u7fa4\u99ac\u300e\u52a0\u5948\u85fa\u300f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "mmcDrk0XbLw",
+                    "video_title": "\u3010\u26a0\ufe0f\u95b2\u6ce8\u3001\u65e9\u98df\u3044\u3011\u30a2\u30e1\u30ea\u30ab\u306e\u30db\u30c3\u30c8\u30c9\u30c3\u30b0\u306e\u5927\u4f1a\u300e\u30cd\u30a4\u30b5\u30f3\u30ba\uff08Nathan's\uff09\u300f\u306e\u4e88\u9078\u306b\u30c1\u30e3\u30ec\u30f3\u30b8\u3057\u3066\u304d\u305f\u203c\ufe0fin  Las Vegas\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011\u3010Max Suzuki\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "NvKAq1g8Sdg",
+                    "video_title": "\u3010\u26a0\ufe0f\u95b2\u6ce8\u3011\u3010\u5927\u98df\u3044\u3011\u8c5a\u9aa8\u30e9\u30fc\u30e1\u30f3\uff087kg\uff0945\u5206\u30c1\u30e3\u30ec\u30f3\u30b8\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "PnxtEHDnnE8",
+                    "video_title": "\u3010\u26a0\ufe0f\u95b2\u6ce8\u3011\u3010\u5927\u98df\u3044\u3011\u751f\u30d1\u30b9\u30bf\uff088kg\uff0945\u5206\u30c1\u30e3\u30ec\u30f3\u30b8\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "6G9uODUKNzo",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30b1\u30f3\u30bf\u30c3\u30ad\u30fc\u306e\u30d3\u30e5\u30c3\u30d5\u30a7\u306f\u8272\u3093\u306a\u7269\u304c\u98df\u3079\u653e\u984c\u3060\u3063\u305f\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "rpLvh3--9TE",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u3010\u30c7\u30ab\u76db\u308a\u3011\u3068\u3042\u308b\u3089\u30fc\u3081\u3093\u5c4b\u3055\u3093\u306e\u30c7\u30ab\u76db\u308a\u304c\u60f3\u50cf\u4ee5\u4e0a\u306b\u30c7\u30ab\u904e\u304e\u305f\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "MEwXUmztvGQ",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u65b0\u4f5c\u30c1\u30e3\u30ec\u30f3\u30b8\u30e1\u30cb\u30e5\u30fc\u3067\u5927\u98df\u3044\u30d0\u30c8\u30eb\u203c\ufe0fin\u725b\u4e45\u300c\u9eba\u5c4b \u9d8f\u5320\u300d\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "X-UQ_bAye0k",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u5de8\u5927\u30cf\u30f3\u30d0\u30fc\u30ac\u30fc\uff0830\u5206\uff09\u30c1\u30e3\u30ec\u30f3\u30b8\u30e1\u30cb\u30e5\u30fc\u306b\u6311\u6226\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "may4x5_2s2M",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u7279\u6ce8\u30c7\u30ab\u76db\u308a\u6cb9\u305d\u3070\uff08\u30a2\u30d6\u30e9\u30de\u30b7\u30de\u30b7\u00d7\uff14\uff09\u30ed\u30fc\u30b9\u30c8\u30dd\u30fc\u30af&\u8c5a\u306e\u4e00\u672c\u55b0\u3044\u203c\ufe0f\u57fc\u7389\u300c\u3069\u3067\u3093\u300d\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "KWJ5xv7JWYs",
+                    "video_title": "\u3010\u26a0\ufe0f\u95b2\u6ce8\u3001\u65e9\u98df\u3044\u3011\u3010\u5927\u98df\u3044\u3011\u304a\u8336\u6f2c\u3051\uff088.5kg\uff09\u30bf\u30a4\u30e0\u30a2\u30bf\u30c3\u30af\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011\u3010Max Suzuki\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "fRe3CSyK0Xc",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u81ea\u5206\u306e\u597d\u304d\u306a\u30e1\u30cb\u30e5\u30fc\u304c\u9078\u3079\u308b\u3068\u3044\u3046\u8b0e\u306e\u30c1\u30e3\u30ec\u30f3\u30b8\u30e1\u30cb\u30e5\u30fc\uff08\u8a086kg\u8d85\uff09\u306b\u6311\u6226\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011\u3010Max Suzuki\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "6U7tDVnBbcA",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u3057\u3089\u3059\u3068\u5927\u8449\u306e\u30da\u30da\u30ed\u30f3\u30c1\u30fc\u30ce\uff081kg\uff0920\u5206\u306b\u30c1\u30e3\u30ec\u30f3\u30b8\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "pg9_p82Wk_c",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30b9\u30fc\u30d7\u7092\u98ef\uff089.5kg\uff09\u98df\u3079\u308c\u308b\u304b\u30c1\u30e3\u30ec\u30f3\u30b8\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011\u3010Max Suzuki\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "vS58D_e99d4",
+                    "video_title": "\u3010\u26a0\ufe0f\u95b2\u89a7\u6ce8\u610f\u3011\u3010\u5927\u98df\u3044\u3011\u30c7\u30ab\u76db\u308a\u3092\u983c\u3093\u3060\u3089\u4f55\u3060\u304b\u51c4\u3044\u4e8b\u306b\u306a\u3063\u305f\u3001\u3001\u3001\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "u4VY1hUh7T4",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u6614\u5931\u6557\u3057\u305f\u30c1\u30e3\u30ec\u30f3\u30b8\u30e1\u30cb\u30e5\u30fc\u300e\u30b8\u30e3\u30f3\u30dc\u713c\u304d\u305d\u3070\uff08\u7d046kg\uff09\u300f\u306b\u518d\u6311\u6226\u3057\u3066\u304d\u305f\u203c\ufe0f\u3010MAX\u9234\u6728\u3011\u3010\u30de\u30c3\u30af\u30b9\u9234\u6728\u3011\u3010Max Suzuki\u3011\u3010\u30c7\u30ab\u76db\u308a\u3011",
+                    "trending_days": 1
+                }
+            ]
+        },
+        {
+            "channel_name": "\u91e3\u308a\u3088\u304b\u98ef",
+            "total_trending_days": 66,
+            "videos_days": [
+                {
+                    "video_id": "OoFy33jLp8k",
+                    "video_title": "\u5b9f\u9a13\uff1f\uff1f\u6599\u7406\uff1f\uff1f\u6614\u306e\u8a18\u61b6\u3092\u547c\u3073\u8d77\u3053\u3059\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "WFhFNB1a5ns",
+                    "video_title": "\u304a\u9152\u306e\u304a\u3064\u307e\u307f\u306b\u4f50\u8cc0\u770c\u540d\u7523\u306e\u3007\u3007\u304c\u6700\u5f37\u3059\u304e\u308b\uff01\uff01",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "re9RyaOpnNs",
+                    "video_title": "\u8d85\u7c21\u5358!!\u30a2\u30a4\u30b9\u306e\u5929\u3077\u3089\u304c\u7f8e\u5473\u3059\u304e\u308b\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Pnk7iBWYHFs",
+                    "video_title": "\u6fc0\u30a6\u30de\uff01\u4e00\u756a\u597d\u304d\u306a\u3042\u306e\u25cb\u25cb\u304c\u5c4a\u3044\u305f\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "paL32hY2i9U",
+                    "video_title": "\u30ea\u30f3\u30b4\u3068\u91a4\u6cb9\u3067\u6f2c\u3051\u8fbc\u3093\u3060\u30de\u30b8\u7f8e\u5473\u5510\u63da\u3052\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "81lA9jhM1cc",
+                    "video_title": "\u539f\u6728\u304b\u3089\u5207\u308a\u51fa\u3057\u305f\u751f\u30cf\u30e0\u306e\u30b7\u30fc\u30b6\u30fc\u30b5\u30e9\u30c0\u304c\u6fc0\u30a6\u30de\u3060\u3063\u305f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Ri0lfUx8D1U",
+                    "video_title": "\u8d85\u6fc0\u5b89\u4e2d\u56fd\u7523\u677e\u8338\u3092\u8cb7\u3063\u3066\u307f\u305f\u304c...",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Hg3Te-ckkhM",
+                    "video_title": "\u30cb\u30f3\u30cb\u30af\u5927\u91cf\u306e\u6fc0\u30af\u30b5\u30ac\u30fc\u30ea\u30c3\u30af\u30e9\u30a4\u30b9\u98df\u3079\u3066\u307f\u305f\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "ZTgL4RDfcx0",
+                    "video_title": "\u9ad8\u7d1a\u677e\u5742\u725b\u3067\u3042\u3048\u3066\u3042\u306e\u6599\u7406\u3092\u4f5c\u308b\uff01\uff1f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "BXPM7wAeKnY",
+                    "video_title": "\u30a4\u30ab\u58a8\u30d1\u30b9\u30bf\u306e\u6c41\u3092\u4f7f\u3063\u3066\u30ea\u30be\u30c3\u30c8\u3092\u4f5c\u308b\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "xsJ4ZuXx05o",
+                    "video_title": "\u597d\u304d\u306a\u5177\u6750\u3092\u5165\u308c\u3066\u30aa\u30ea\u30b8\u30ca\u30eb\u304a\u597d\u307f\u713c\u304d\u306b\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "kWn_AgaEQbU",
+                    "video_title": "\u30e1\u30d0\u30eb\u306e\u76ae\u3092\u6e6f\u5f15\u304d\u3057\u3066\u307f\u308b\u3068\u30fb\u30fb\u30fb",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Zudw_7x6zn4",
+                    "video_title": "\u4e8c\u5ea6\u3068\u51fa\u306a\u3044!?\u7d66\u98df\u306b\u51fa\u3066\u305f\u7a76\u6975\u306e\u4e00\u54c1\u3092\u7c21\u5358\u306b\u4f5c\u308b\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "doEhdnL_ZYc",
+                    "video_title": "\u898b\u305f\u76ee\u306f\u3042\u308c\u3060\u3051\u3069\u7f8e\u5473\u3057\u3044\u30c9\u30fc\u30ca\u30c3\u30c4\u304c\u3067\u304d\u305f\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "N5O4wzuJOr8",
+                    "video_title": "\u8d85\u9ad8\u7d1a\u30af\u30e9\u30a6\u30f3\u30e1\u30ed\u30f3\u3067\u751f\u30cf\u30e0\u30e1\u30ed\u30f3\u4f5c\u3063\u3066\u307f\u305f\u7d50\u679c\u30fb\u30fb\u30fb",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "zh97RIOHZVU",
+                    "video_title": "\u30be\u30a6\u30ea\u30a8\u30d3\u98df\u3079\u3066\u307f\u305f\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "pNIcFMop5yM",
+                    "video_title": "\u30a2\u30f3\u30b0\u30e9\u30fc\u30ba\u30a2\u30a4\u30c9\u30eb\u306b\u3088\u308b\u30a2\u30b9\u30d1\u30e9\u30c1\u30fc\u30ba\u30d9\u30fc\u30b3\u30f3\u5dfb\u304d\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "j-r77CZlIvM",
+                    "video_title": "\u30b3\u30b9\u30c8\u30b3\u306e\u5473\u4ed8\u304d\u8089\u3067\u307f\u3093\u306a\u5927\u597d\u304d\u3042\u306e\u6599\u7406\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "0XDVzshzfBE",
+                    "video_title": "\u30c0\u30c3\u30c2\u30aa\u30fc\u30d6\u30f3\u3067\u6fc0\u30a6\u30de\uff01\u7279\u88fd\u77f3\u713c\u304d\u30d3\u30d3\u30f3\u30d0\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "MXgps9lnpsY",
+                    "video_title": "\u5bb6\u5ead\u306e\u5473\u3092\u518d\u73fe\uff01\u3053\u308c\u304c\u4ffa\u306e\u5927\u597d\u7269\u3060\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "eKYFBPDeXMU",
+                    "video_title": "\u30b6\u30ea\u30ac\u30cb\u307f\u305f\u3044\u306a\u9ad8\u7d1a\u30a8\u30d3\u3092\u6599\u7406\u3059\u308b\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "JCdl4iGYMvg",
+                    "video_title": "\u4f0a\u52e2\u6d77\u8001\uff13\u5339\u3092\u4e38\u3054\u3068\u4f7f\u3063\u3066\u5de8\u5927\u30a8\u30d3\u30d5\u30e9\u30a4\uff01\uff1f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "OWYQFmWTk_M",
+                    "video_title": "\u4e00\u7c92\uff1f\uff1f\uff1f\uff1f\uff1f\u5186\u9ad8\u7d1a\u6885\u3092\u98df\u3079\u3066\u307f\u305f\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "omj7-IvHn4s",
+                    "video_title": "\u307f\u3093\u306a\u304c\u77e5\u3063\u3066\u308b\u304a\u304b\u3057\u3067\u6fc0\u30a6\u30de\u6599\u7406\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "7T4phyaxZGc",
+                    "video_title": "\u751f\u30cf\u30e0\u306e\u539f\u6728\u8cb7\u3063\u3061\u3083\u3063\u305f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "EqMvuruFap0",
+                    "video_title": "\u30bf\u30e9\u306e\u767d\u5b501\u30ad\u30ed\u3092\u98df\u3089\u3044\u3064\u304f\u3059\u3068\u7f8e\u5473\u3059\u304e\u305f\uff01\uff01",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "f9UfcBoWyQY",
+                    "video_title": "\u8d85\u7d76\u54c1\uff01\uff01\u30ec\u30c8\u30eb\u30c8\u30ab\u30ec\u30fc\u304c\u7c21\u5358\u713c\u30ab\u30ec\u30fc\u3046\u3069\u3093\u306b\uff01\uff1f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "x2ATBbagb24",
+                    "video_title": "\u5bcc\u5c71\u770c\u3067\u6355\u3063\u3066\u304d\u305f\u30db\u30bf\u30eb\u30a4\u30ab\u3067\u30d1\u30a8\u30ea\u30a2\u3092\u4f5c\u308b\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "TnziZfjQaw4",
+                    "video_title": "\u4e2d\u56fd\u306b\u4f1d\u308f\u308b\u9ad8\u7d1a\u6599\u7406\u300e\u6c34\u6676\u9d8f\u300f\u304c\u81ea\u5b85\u3067\u7c21\u5358\u306b\u4f5c\u308c\u308b\uff01\uff1f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "BeWzBdccZEA",
+                    "video_title": "\u4f59\u308a\u7269\u3092\u4f7f\u3063\u3066\uff01\u7c21\u5358\u6fc0\u30a6\u30de\u6599\u7406\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "uLCqiJCE2U0",
+                    "video_title": "\u3082\u3089\u3063\u305f\u3046\u3069\u3093\u3092\u590f\u3067\u3082\u7f8e\u5473\u3057\u3044\u51b7\u3084\u3057\u3046\u3069\u3093\u306b\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "6i1v4U2UU3A",
+                    "video_title": "\u4e03\u8f2a\u3067\u713c\u30c1\u30e7\u30b3\u30d0\u30ca\u30ca\u4f5c\u3063\u3066\u307f\u305f\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "N6nY7IchB4o",
+                    "video_title": "\u30c1\u30fc\u30ba\u3092\u8089\u3067\u5305\u3093\u3067\uff01\u3055\u3089\u306b\u8089\u3092\u8089\u3067\u5305\u3093\u3067\u307f\u305f\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "uiC3VliPmrk",
+                    "video_title": "\u30b3\u30b9\u30c8\u30b3\u98ef\u305f\u3063\u305f2000\u5186\u3067\u5bb6\u65cf\u3082\u5927\u6e80\u8db3\u306e\u6599\u7406\u3092\u98df\u3079\u308b\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "VUqS1bfCMLE",
+                    "video_title": "\u30b3\u30b9\u30c8\u30b3\u3067\u30a4\u30af\u30e9\u3092\u304b\u3063\u3066\u4e57\u305b\u653e\u984c\u4e3c\u3084\u3063\u3066\u307f\u305f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "EpRnnSr6idA",
+                    "video_title": "\u30cf\u30f3\u30d0\u30fc\u30b0\u306b\u5927\u91cf\u306e\u30c1\u30fc\u30ba\u3092\u3076\u3063\u304b\u3051\u305f\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "abS01yuwybM",
+                    "video_title": "\u30af\u30ea\u30fc\u30e0\u30d1\u30b9\u30bf\u306b\uff01\u5927\u91cf\u306e\u30c1\u30fc\u30ba\u304b\u3051\u3066\u307f\u305f\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "l27GmAbTl9E",
+                    "video_title": "\u3010\u7d76\u54c1\u3011\u4e03\u8f2a\u3067\u8272\u3093\u306a\u7269\u3092\u713c\u3044\u305f\u3089\u6700\u5f37\u3060\u3063\u305f\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "ze4qQICHOws",
+                    "video_title": "\u305d\u3093\u306a\u6240\u304c\u98df\u3079\u3089\u308c\u308b\u306e\uff01\uff1f\u725b\u306e\u5c3b\u5c3e\u5165\u308a\u30ab\u30ec\u30fc\uff01\uff01",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "2Ln5CrsqmoQ",
+                    "video_title": "\u3010\u7d76\u54c1\u3011\u3042\u306e\u7c89\u3067\u30a8\u30d3\u30de\u30e8\u4f5c\u3063\u305f\u3089\u30fb\u30fb\u30fb\uff1f",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "0NCguOcUML0",
+                    "video_title": "\u5bb6\u3067\u304a\u796d\u308a\u6c17\u5206\uff01\u30b0\u30eb\u30b0\u30eb\u30b0\u30eb\u301c\u30dd\u30a4\u30c3\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "kiSikFKOhpA",
+                    "video_title": "\u30b4\u30eb\u30d5\u306e\u666f\u54c1\u3067\u9802\u3044\u305f\u30ad\u30e0\u30c1\u3067\u8c5a\u30ad\u30e0\u30c1\u3092\u4f5c\u308b\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "A0NntfJuVM8",
+                    "video_title": "\u30b9\u30fc\u30d1\u30fc\u306e\u30b9\u30c6\u30fc\u30ad\u8089\u3067\uff01\u6fc0\u3046\u307e\u30ed\u30fc\u30b9\u30c8\u30d3\u30fc\u30d5\u98a8\u4e3c\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "DJoEfkq-OUM",
+                    "video_title": "\u898b\u305f\u76ee\u306f\u67d1\u6a58\u7cfb\uff01\uff1f\u30ad\u30f3\u30ab\u30f3\u3092\u4f7f\u3063\u3066\u304a\u3064\u307e\u307f\u3092\u4f5c\u308b\uff01",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "uOW7ADErhCM",
+                    "video_title": "\u9ad8\u7d1a\u306a\u30a6\u30cb\u3092\u4f7f\u3063\u305f\u30d1\u30b9\u30bf\u304c\u8d85\u7d76\u54c1\u3060\u3063\u305f\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "BdLOwHDUxR0",
+                    "video_title": "\u3010\u5b9f\u9a13\u3011\u725b\u4e73\u306b\u25cb\u25cb\u3092\u5165\u308c\u308b\u3068\u30e8\u30fc\u30b0\u30eb\u30c8\u306b\uff01\uff1f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "B9eHrtRTZZ0",
+                    "video_title": "\u30cd\u30b3\u306e\u3046\u3007\u3053\u3067\u4f5c\u308b\u30b3\u30fc\u30d2\u30fc\u98f2\u3093\u3067\u307f\u305f\u3010\u30b3\u30d4\u30fb\u30eb\u30a2\u30af\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "4j9DoB2dD4s",
+                    "video_title": "\u9854\u3064\u3044\u3066\u308b\u3084\u3093...\u9ce5\u3092\u4e38\u3005\uff11\u5339\u98df\u3059\uff01",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "iHtKyiWlaro",
+                    "video_title": "\u304a\u304b\u305a\uff1f\u304a\u3064\u307e\u307f\uff1f\u751f\u30cf\u30e0\u3068\u30e9\u30af\u30ec\u30c3\u30c8\u3067\u5929\u3075\u309a\u3089\u6599\u7406!!",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "FPHiSHcJNIY",
+                    "video_title": "\u677e\u5742\u725b100\uff05\u306e\u30cf\u30f3\u30d0\u30fc\u30b0\u304c\u885d\u6483\u3059\u304e\u305f\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "OFkdncmbpl0",
+                    "video_title": "\u6625\u306e\u65ec\u306e\u98df\u6750\u3092\u4f7f\u3046\u3068\uff01\u5302\u3044\u307e\u3067\u7f8e\u5473\u304b\u3063\u305f\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Xqx1rQ1Q9ck",
+                    "video_title": "\u539f\u5bbf\u306e\u30d1\u30f3\u30b1\u30fc\u30ad\u304c\u81ea\u5b85\u3067\u3082\u8d85\u7c21\u5358\u306b\u4f5c\u308c\u308b\uff01\uff1f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "8RlbfwXmFQo",
+                    "video_title": "\u30cf\u30de\u30b0\u30ea\u3084\u91d1\u76ee\u9bdb\u304c\u306e\u3063\u305f\u9ad8\u7d1a\u304a\u8336\u6f2c\u3051\u3092\u98df\u3079\u308b\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "PiQQrsO-ND0",
+                    "video_title": "\u9ad8\u7d1a\u3042\u308f\u3073\u3092\u4f7f\u3063\u3066\u7d76\u54c1\u6599\u7406\u4f5c\u3063\u3066\u307f\u305f",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "bKBAPu___Ck",
+                    "video_title": "\u5c45\u9152\u5c4b\u79d8\u4f1d\u306e\u30bd\u30fc\u30b9\uff01\u30b8\u30e3\u30dd\u30cd\u30bd\u30fc\u30b9\u3092\u4f5c\u3063\u3066\u307f\u305f\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "utjcDyafQh8",
+                    "video_title": "IH\u30af\u30c3\u30ad\u30f3\u30b0\u30d2\u30fc\u30bf\u30fc\u306e\u30b3\u30b2\u3092\u30ad\u30ec\u30a4\u306b\u3059\u308b\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "batFQVaCv9o",
+                    "video_title": "\u304a\u8089\u8d85\u305f\u3063\u3077\u308a\u8d05\u6ca2\u3059\u304d\u713c\u304d\u4e3c\u3092\u4f5c\u3063\u3066\u307f\u305f\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "FuQfQKXCImg",
+                    "video_title": "\u307f\u3093\u306a\u5927\u597d\u304d\uff01\u304a\u5e97\u306e\u5473\u3092\u518d\u73fe\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "mtq-cqrr-W4",
+                    "video_title": "\u751f\u685c\u3048\u3073\u3068\u751f\u3057\u3089\u3059\u3067\u8d05\u6ca2\u4e3c\u3092\u4f5c\u3063\u3066\u98df\u3079\u308b\uff01",
+                    "trending_days": 1
+                }
+            ]
+        },
+        {
+            "channel_name": "TV Derana",
+            "total_trending_days": 59,
+            "videos_days": [
+                {
+                    "video_id": "tzU9rj0pSGE",
+                    "video_title": "Deweni Inima | Episode 323 02nd May  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "wRg57rwj0K8",
+                    "video_title": "Deweni Inima | Episode 330 11th May  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "kcBEbhEskQA",
+                    "video_title": "Deweni Inima | Episode 314 19th April  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "85VsNbU3FZE",
+                    "video_title": "Deweni Inima | Episode 334 17th May 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "BV8PdcmirAo",
+                    "video_title": "Deweni Inima | Episode 312 17th April  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "LapqmfFkkWA",
+                    "video_title": "Deweni Inima | Episode 290 16th March  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "2W8olZ_Uapw",
+                    "video_title": "Deweni Inima | Episode 340 25th May 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "4iJB52MX3d8",
+                    "video_title": "Deweni Inima | Episode 274 22nd February 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "n-8RR2NVT7Q",
+                    "video_title": "Deweni Inima | Episode 350 08th June 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "UJjcZYB8on0",
+                    "video_title": "Deweni Inima | Episode 289 15th March  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "KeB77zUElhc",
+                    "video_title": "Deweni Inima | Episode 283 07th March  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "D0tPnQw7aPo",
+                    "video_title": "Deweni Inima | Episode 272 20th February 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "63bdJ9U7qTo",
+                    "video_title": "Deweni Inima | Episode  284 08th March  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "tDm7hHUOQt4",
+                    "video_title": "Deweni Inima | Episode 285 09th March  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "kudU3Yg6u6I",
+                    "video_title": "Deweni Inima | Episode  295 23rd March  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "3zYHBD9WEcA",
+                    "video_title": "Deweni Inima | Episode 344 31st May 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Ltx3IniYjU0",
+                    "video_title": "Deweni Inima | Episode 336 21st May 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "NVkb0GgCwEQ",
+                    "video_title": "Deweni Inima | Episode 349 07th June 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "v8gYnSdZ07Y",
+                    "video_title": "Deweni Inima | Episode  304 05th April  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "JjYSkTrTZls",
+                    "video_title": "Deweni Inima | Episode 282 06th March  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "X4HNvHl_uVI",
+                    "video_title": "Deweni Inima | Episode 342 29th May 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "0n4It3J4vx8",
+                    "video_title": "Deweni Inima | Episode 280 02nd March  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "AyczFSaoapo",
+                    "video_title": "Deweni Inima | Episode 291 19th March  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "KgDgNfpdaoY",
+                    "video_title": "Deweni Inima | Episode 316 23rd April 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "3Fge0dJsL5E",
+                    "video_title": "Deweni Inima | Episode 292 20th March  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "4R_KxwkDSYo",
+                    "video_title": "Deweni Inima | Episode 341 28th May 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Vifp_f7J0Fc",
+                    "video_title": "Deweni Inima | Episode 320 27th April  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "G-lbFCPqSQg",
+                    "video_title": "Deweni Inima | Episode 265 09th February 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "4PVLJAdiaNA",
+                    "video_title": "Deweni Inima | Episode 305 06th April  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "e4qk3mFePo4",
+                    "video_title": "Deweni Inima | Episode  328 09th May  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "64nlRycM4sM",
+                    "video_title": "Deweni Inima | Episode 276 26th February 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "dL8PBdfUqlw",
+                    "video_title": "Deweni Inima | Episode  318 25th April  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "JBE8n_hQLmw",
+                    "video_title": "Deweni Inima | Episode 345 01st June 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "FhhDuz3IpXk",
+                    "video_title": "Deweni Inima | Episode 270 16th February 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "oR1S-dpifRs",
+                    "video_title": "Deweni Inima | Episode 337 22nd May 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "0S83esTd-Pg",
+                    "video_title": "Deweni Inima | Episode 271 19th February 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "GwgXf8gBSq0",
+                    "video_title": "Deweni Inima Episode 301 02nd April  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "VU6045scb8k",
+                    "video_title": "Deweni Inima | Episode 326 07th May 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Q3cY3VlygSE",
+                    "video_title": "Deweni Inima | Episode 348 06th June 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "axeM4B-mU5k",
+                    "video_title": "Deweni Inima | Episode 353 13th June 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Row13z_oHs0",
+                    "video_title": "Deweni Inima | Episode 303 04th April  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "L94gGziIA5I",
+                    "video_title": "Deweni Inima | Episode 313 18th April  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Q3B27Fk5b24",
+                    "video_title": "Deweni Inima | Episode 294 22nd March  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "_XOE61kFU8A",
+                    "video_title": "Deweni Inima | Episode 302 03rd April  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "gd_riOA4TcI",
+                    "video_title": "Deweni Inima | Episode 297 27th March  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "rucWeEnSWeQ",
+                    "video_title": "Deweni Inima | Episode 331 14th May 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "gv6PhbLAPVM",
+                    "video_title": "Deweni Inima | Episode 311 16th April  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "WQ1w8mMflAk",
+                    "video_title": "Deweni Inima | Episode 269 15th February 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Sh-VLZvTRRw",
+                    "video_title": "Deweni Inima | Episode 300 30th March  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "o9bvQs04PZU",
+                    "video_title": "Deweni Inima | Episode 281 05th March 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "km3zPhBBrno",
+                    "video_title": "Deweni Inima | Episode 338 23rd May 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "WMohUX1KUhU",
+                    "video_title": "Deweni Inima | Episode 351 11th June 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "hWkFOXIMeSU",
+                    "video_title": "Deweni Inima | Episode 332 15th May 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "txFqPH6myWg",
+                    "video_title": "Deweni Inima | Episode 352 12th June 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "cnq7Ma7PpUc",
+                    "video_title": "Deweni Inima | Episode 324 03rd May  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "EXzn5LtNSX8",
+                    "video_title": "Deweni Inima | Episode 299 29th March  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "8iTzf61aSbg",
+                    "video_title": "Deweni Inima | Episode 277 27th February 2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "KPqghlyFrQA",
+                    "video_title": "Deweni Inima | Episode 329 10th May  2018",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Z9wmhPLgBxM",
+                    "video_title": "Deweni Inima | Episode 327 08th May  2018",
+                    "trending_days": 1
+                }
+            ]
+        },
+        {
+            "channel_name": "\u4eca\u65e5\u30e4\u30d0\u30a4\u5974\u306b\u4f1a\u3063\u305f",
+            "total_trending_days": 58,
+            "videos_days": [
+                {
+                    "video_id": "NjeE5HHaDso",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30d2\u30b2\u306e\u5243\u308a\u65b9 / Shaving",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "ITSKErjZXwI",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30de\u30f3\u30b4\u30fc\u30aa\u30e0\u30ec\u30c4\u306e\u4f5c\u308a\u65b9 / Mango Omlette",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Qyc7xQsB9dc",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u3042\u3081\u7d30\u5de5\u306e\u4f5c\u308a\u65b9 / Candy Art",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "bWIp5Db_TKI",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30c1\u30ad\u30f3\u5305\u307f\u63da\u3052\u30de\u30a4\u30c0\u30ed\u30c6\u30a3\u306e\u4f5c\u308a\u65b9",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "MC_wdY4Q3gU",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30de\u30f3\u30b4\u30fc\u30e9\u30c3\u30b7\u30fc\u306e\u4f5c\u308a\u65b9 / Mango Lassi",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "dpXZ98T3oVA",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u713c\u304d\u9903\u5b50\u306e\u4f5c\u308a\u65b9 / Fried Momo",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "4jaoicIuwmU",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30c1\u30ad\u30f3\u30ed\u30fc\u30eb\u306e\u4f5c\u308a\u65b9 / Chicken Roll",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "Mx_uCJJVERQ",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u63da\u3052\u30b9\u30ca\u30c3\u30af \u30eb\u30af\u30df\u306e\u4f5c\u308a\u65b9 / Lukhmi",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "u31G_zYCo6I",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30db\u30ef\u30a4\u30c8\u30bd\u30fc\u30b9 \u30da\u30f3\u30cd\u306e\u4f5c\u308a\u65b9 / White Sauce Penne",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "qIa5cCHSKsM",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u5dfb\u304d\u5bff\u53f8\u30dc\u30f3\u30d9\u30a4\u30ed\u30fc\u30eb\u306e\u4f5c\u308a\u65b9 / Bombay Roll",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "La6kz9r-cZo",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u307e\u3093\u307e\u308b\u63da\u3052\u30dc\u30f3\u30c0\u306e\u4f5c\u308a\u65b9 / Bonda",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "0BVGdwLUAw8",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30df\u30cb\u30de\u30eb\u30d7\u30a2\u306e\u4f5c\u308a\u65b9 / Malpua",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "1YvwElD6Wis",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30de\u30f3\u30b4\u30fc\u30a2\u30a4\u30b9\u76db\u308a\u5408\u308f\u305b\u306e\u4f5c\u308a\u65b9 / Mango Ice",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "0x7e6rBbRf0",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u63da\u3052\u30d1\u30f3\u306e\u4f5c\u308a\u65b9",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "fNoCvCIdYdE",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30e9\u30e0\u30c1\u30e7\u30c3\u30d7\u306e\u4f5c\u308a\u65b9 / Lamb Chop",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "LngpUgiAACU",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u56db\u5ddd\u30d1\u30b9\u30bf\u306e\u4f5c\u308a\u65b9 / Schezwan Pasta",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "O2byI19QvE8",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u305f\u307e\u3054\u30d1\u30f3\u306e\u4f5c\u308a\u65b9",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "0CRD8-zA0Bk",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30a2\u30a4\u30b9\u306e\u4f5c\u308a\u65b9 / Kulfi",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "I94mz9EQKJo",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30c1\u30ad\u30f3\u30b5\u30f3\u30c9\u306e\u4f5c\u308a\u65b9 / Chicken Sandwich",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "ZrH8GkoHYmI",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30d7\u30ea\u30c1\u30e7\u30e9\u3068\u8c46\u30ab\u30ec\u30fc\u306e\u4f5c\u308a\u65b9",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "H8qeM3ZLT1c",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u591c\u5e97\u306e\u30e9\u30c3\u30b7\u30fc\u306e\u4f5c\u308a\u65b9 / Lassi",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "W_Ub73P_MRc",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u304a\u83d3\u5b50\u30ab\u30b8\u30e5\u306e\u4f5c\u308a\u65b9 / Kaju",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "AX8y_QVjQZA",
+                    "video_title": "\u30a4\u30f3\u30c9 \u30e9\u30c0\u30c3\u30af\u306e\u30c9\u30fc\u30b5\u306e\u4f5c\u308a\u65b9 / Ladakh Dosa",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "LXg38rjyzzc",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30a2\u30e9\u30d3\u30a2\u30f3\u30c1\u30e3\u30fc\u30cf\u30f3\u306e\u4f5c\u308a\u65b9 / Arabian China Rice",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "I7Ra6r78guk",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u91ce\u83dc\u30d1\u30b3\u30c0\u306e\u4f5c\u308a\u65b9 / Veg Pakoda",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "hgrQrTbRWiw",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u671d\u3054\u306f\u3093\u30c0\u30d2\u30ef\u30c0\u306e\u4f5c\u308a\u65b9 / Dahiwada",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "gpsvsKtTxfA",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30b0\u30ea\u30fc\u30f3\u30de\u30f3\u30b4\u30fc\u30b8\u30e5\u30fc\u30b9\u306e\u4f5c\u308a\u65b9 / Green Mango Juice",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "ZMCLIs-TnrY",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30af\u30c3\u30ad\u30fc\u306e\u4f5c\u308a\u65b9 / Indian Cookie",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "IGslzfDjnoY",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30ab\u30c1\u30e7\u30ea\u30b5\u30d6\u30b8\u306e\u4f5c\u308a\u65b9 / Kachori Sabji",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "#NAME?",
+                    "video_title": "\u30a4\u30f3\u30c9 \u30b8\u30e3\u30a4\u30d7\u30fc\u30eb\u306e\u9b5a\u306e\u5510\u63da\u3052\u306e\u4f5c\u308a\u65b9 / Fried Fish",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "rmON2pSUdqM",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u63da\u3052\u30d1\u30f3\u30b1\u30fc\u30ad \u30de\u30eb\u30d7\u30a2\u306e\u4f5c\u308a\u65b9 / Indian Malpua",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "gVEVOEwdOc4",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u3075\u308f\u3075\u308f\u30e1\u30ec\u30f3\u30b2\u83d3\u5b50\u306e\u4f5c\u308a\u65b9 / Meringue",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "#NAME?",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30cf\u30a4\u30c7\u30e9\u30d0\u30fc\u30c9\u306e\u713c\u304d\u305d\u3070\u306e\u4f5c\u308a\u65b9 / Fried Noodle",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "TUriBtNo0ck",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30ab\u30cb\u306e\u4e38\u63da\u3052\u306e\u4f5c\u308a\u65b9 / Fried Crab",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "9tDW2Wkw7VY",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30c1\u30e7\u30b3\u30ec\u30fc\u30c8\u30b5\u30f3\u30c9\u30a4\u30c3\u30c1\u306e\u4f5c\u308a\u65b9 / Chocolate Sandwich",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "S6qKBJrH-IM",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30c1\u30fc\u30ba\u30aa\u30e0\u30ec\u30c4\u306e\u4f5c\u308a\u65b9 / Cheese Omlette",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "HptRy6msrbU",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30de\u30b5\u30e9\u8c46\u30bb\u30c3\u30c8 \u30c0\u30eb\u30d1\u30e9\u30bf\u306e\u4f5c\u308a\u65b9 / Dal Paratha",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "#NAME?",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u713c\u304d\u305d\u3070\u30ed\u30fc\u30eb\u306e\u4f5c\u308a\u65b9 / Noodle Cheese Frankie",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "5vtNpM0FG4M",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\uff14\uff15\uff10\uff10m\u306e\u30aa\u30e0\u30ec\u30c4\u306e\u4f5c\u308a\u65b9 / Ladakh Omelette",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "fMn_SLlKUO8",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u9b5a\u306e\u30d5\u30e9\u30a4\u306e\u4f5c\u308a\u65b9",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Fr0cJbApJFk",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u725b\u4e32\u713c\u304d\u306e\u4f5c\u308a\u65b9",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "33nnjs0kcgY",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30a2\u30a4\u30b9\u30ad\u30e3\u30f3\u30c7\u30a3\u306e\u4f5c\u308a\u65b9 / Ice Pop",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "ZCaIceRZYoc",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u8133\u30bd\u30c6\u30fc\u306e\u4f5c\u308a\u65b9 /  Brain",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "stgdKVw25T0",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30c1\u30ad\u30f3\uff16\uff15\u306e\u4f5c\u308a\u65b9 / Chicken 65",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "N765PgmiEIw",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30d0\u30ca\u30ca\u30b5\u30f3\u30c9\u30a4\u30c3\u30c1\u306e\u4f5c\u308a\u65b9 / Banana Sandwich",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "93WC2JG8r-E",
+                    "video_title": "\u3010\u30e9\u30a4\u30d6\u3011\u30a4\u30f3\u30c9\u306e\u5e02\u5834\u306e\u6b69\u304d\u65b9",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Da8Q_12hMiM",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30d7\u30ea\u30f3 \u30de\u30ea\u30de\u30e9\u30a4\u306e\u4f5c\u308a\u65b9 / Milk Pudding",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "KjiEsB_Xn5s",
+                    "video_title": "\u30a4\u30f3\u30c9\u306e\u30b9\u30a4\u30ab\u30df\u30eb\u30af\u30b7\u30a7\u30a4\u30af\u306e\u4f5c\u308a\u65b9 / Watermelon Juice",
+                    "trending_days": 2
+                }
+            ]
+        },
+        {
+            "channel_name": "\u91e3\u308a\u3044\u308d\u306f",
+            "total_trending_days": 54,
+            "videos_days": [
+                {
+                    "video_id": "oXn9Z5m09-E",
+                    "video_title": "\u91e3\u308c\u305f\u30a4\u30ab\u306b\u300c\u3064\u3044\u3066\u304d\u305f\u30a4\u30ab\u300d\u304c\u2026",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "Cz3gcOsUz0c",
+                    "video_title": "\u96e2\u5cf6\u3067\u6669\u5fa1\u98ef\u3092\u91e3\u308a\u4e0a\u3052\u308d\u203c#1",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "PYE8bA6XX7g",
+                    "video_title": "\u6975\u5bd2\u306e\u591c\u7a7a\u306e\u4e0b\u3067\u7d76\u54c1\u6599\u7406\u4f5c\u3063\u3066\u307f\u305f\u203c",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "rxPKGo3m-cY",
+                    "video_title": "\u5275\u4f5c\u30e9\u30fc\u30e1\u30f3\u5bfe\u6c7a\u3067\u307e\u3055\u304b\u306e\u5c55\u958b\u306b\u203c",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "fAklQ6oGzsg",
+                    "video_title": "\u3010\u8d85\u5371\u967a\u3011\u8352\u6ce2\u306b\u4f55\u5ea6\u3082\u5012\u308c\u306a\u304c\u3089\u300c\u738b\u8005\u300d\u304c\u91e3\u308c\u305f\u203c#1",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "qbKAefm1M2U",
+                    "video_title": "\u3010\u5c0f\u3063\u3061\u3083\u3044\u30eb\u30a2\u30fc\u3011\u3067\u30e1\u30d0\u30eb\u3092\u91e3\u308b\u203c",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "spMOjTVhoAc",
+                    "video_title": "\u3010\u30cf\u30d7\u30cb\u30f3\u30b0\u3011\u91e3\u308c\u305f\u77ac\u9593\u307e\u3055\u304b\u306e\u60b2\u5287\u2026",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "SEw_OSEsoMg",
+                    "video_title": "\u3010\u885d\u6483\u306e\u30e9\u30b9\u30c8\u3011\u5ddd\u306b\u5869\u30d3\u30d1\u30a4\u30d7\u3092\u7a81\u3063\u8fbc\u3093\u3067\u3046\u306a\u304e\u3092\u6355\u307e\u3048\u3088\u3046\u3068\u3057\u305f\u7d50\u679c\u2026",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "YeHkBSS7z3g",
+                    "video_title": "\u91e3\u3089\u306a\u3044\u3068\u3054\u98ef\u7121\u3057\u203c\u56db\u56fd\u4e00\u54684\u6cca5\u65e5\u9593\u306e\u65c5#6",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "fwzByGWe9V4",
+                    "video_title": "\u30a2\u30e9\u30ab\u30d6\u30de\u30f3\u30b7\u30e7\u30f3\u898b\u3064\u3051\u305f\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "cO7iYh_wdxg",
+                    "video_title": "\u307e\u3055\u304b\u306e\u5c55\u958b\u3068\u7a7a\u304b\u3089\u306e\u653b\u6483\u2026",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "AQcbQGkVrCU",
+                    "video_title": "\u307e\u3055\u304b\u306e\u3010\u7530\u3093\u307c\u3011\u3067\u30cb\u30b8\u30de\u30b9\u304c\u91e3\u308c\u305f\u203c",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "JY5K-uJdRC8",
+                    "video_title": "\u3010\u885d\u6483\u3011\u5ddd\u306b\u7db2\u3092\u7a81\u3063\u8fbc\u3093\u3060\u3089\u5927\u91cf\u306b\u300c\u8b0e\u306e\u751f\u7269\u300d\u304c\u6355\u308c\u305f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Lq0phHDy7-w",
+                    "video_title": "\u91e3\u3063\u305f\u305d\u306e\u5834\u3067\u304a\u523a\u8eab\u306b\u203c\u5473\u564c\u6c41\u4ed8\u304d",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "KkIh4PSZimQ",
+                    "video_title": "\u3010\u5824\u9632\u304b\u3089\u9ad8\u7d1a\u9b5a\u3011\u30a8\u30ae\u30f3\u30b0\u30ed\u30c3\u30c9\u3067\u91e3\u308a\u3042\u3052\u305f\u203c",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "9fSbCJGN2R0",
+                    "video_title": "\u300c\u30b3\u30ec\u300d\u306e\u88cf\u5074\u304c\u2026",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "ix6sJ_CR8t0",
+                    "video_title": "\u3010\u3069\u3063\u304d\u308a\u3011\u91e3\u3063\u305f\u30a4\u30ab\u3068\u300c\u5618\u300d\u3092\u4ed8\u304d\u300c\u51b7\u51cd\u30a4\u30ab\u300d\u3092\u98df\u3079\u305f\u3089\u2026",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "rtFlmFfoJoE",
+                    "video_title": "\u3010\u751f\u304d\u305f\u307e\u307e\u3011\u91e3\u3063\u3066\u305d\u306e\u5834\u3067\u30a2\u30aa\u30ea\u30a4\u30ab\u3092\u634c\u3044\u305f\u3089\u2026",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "g7cdAQ9eJKk",
+                    "video_title": "\u3068\u304f\u3055\u3093\u4eba\u751f\u521d\u306e\u3075\u304b\u305b\u91e3\u308a\u203c",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "YzbYH4EPuEE",
+                    "video_title": "\u5927\u7206\u91e3\u300c\u91e3\u308a\u306e\u8056\u5730\u300d\u306f\u3059\u3054\u304b\u3063\u305f\u203c#1",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "BJ0i5SQHBt0",
+                    "video_title": "\u3010\u8d85\u5371\u967a\u3011\u8352\u6ce2\u306b\u4f55\u5ea6\u3082\u5012\u308c\u306a\u304c\u3089\u300c\u738b\u8005\u300d\u304c\u91e3\u308c\u305f\u203c#2",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "8OEXeUhzWVk",
+                    "video_title": "\u9999\u5ddd\u3067\u5b9f\u91e3\u30e9\u30a4\u30d6\u914d\u4fe1\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "KWnloM9c2Hk",
+                    "video_title": "\u5927\u7206\u91e3\u300c\u91e3\u308a\u306e\u8056\u5730\u300d\u306f\u3059\u3054\u304b\u3063\u305f\u203c#2",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "MG4I0ub9vf4",
+                    "video_title": "\u3010\u30a8\u30ae\u30f3\u30b0\u3011\u4eba\u751f\u521d\u3081\u3066\u306e\u9ad8\u7d1a\u30a4\u30ab\u306b\u5927\u559c\u3073\u203c",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "mYfDQJjL0IE",
+                    "video_title": "\u30b7\u30e7\u30a2\u30b8\u30ae\u30f3\u30b0\u3067\u9752\u7269\u304c\u7206\u91e3\u3057\u305f\u203c#4",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "RNfv6rO4res",
+                    "video_title": "\u30a2\u30ca\u30b3\u30f3\u30c0\u3092\u5b9f\u5bb6\u306e\u5ead\u3067\u713c\u3044\u3066\u307f\u305f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "qYjdiNHo7Ts",
+                    "video_title": "\u300c\u306a\u304a\u3055\u3093\u300d\u3068\u4e00\u7dd2\u306b\u300c\u3068\u304f\u5bb6\u300d\u3067\u5ddd\u9b5a\u3092\u98df\u3063\u3066\u307f\u305f\u203c",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "UiohwUEHPMk",
+                    "video_title": "\u6ce5\u307e\u307f\u308c\u306e\u77f3\u306e\u4e0b\u306b\u2026",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "voLKzxqRrK4",
+                    "video_title": "\u96e2\u5cf6\u3067\u6669\u5fa1\u98ef\u3092\u91e3\u308a\u4e0a\u3052\u308d\u203c\u3010\u8abf\u7406\u7de8\u3011",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "JYJCj54J9Zc",
+                    "video_title": "\u3010\u6bd2\u9b5a\u3011\u3067\u30ab\u30eb\u30d1\u30c3\u30c1\u30e7\u4f5c\u3063\u3066\u307f\u305f\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "NA5zcp6Qrcc",
+                    "video_title": "\u3010\u5929\u7136\u3046\u306a\u304e\u3011\u3067\u300c\u305b\u3044\u308d\u84b8\u3057\u300d\u4f5c\u3063\u3066\u307f\u305f\u203c",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "hWye_mewy3Y",
+                    "video_title": "\u65b0\u30a2\u30a4\u30c6\u30e0\u300c\u305f\u304f\u3046\u5263\u300d\u3067\u3046\u306a\u304e\u3092\u72d9\u3046\u203c",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "OFAJtSHtO1I",
+                    "video_title": "\u56db\u56fd\u4e00\u5468\u30e9\u30b9\u30c8\u751f\u914d\u4fe1",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "9oT5es2LWrk",
+                    "video_title": "\u5824\u9632\u30a2\u30b8\u30f3\u30b0\u3067\u300c\u5225\u306e\u5927\u7269\u300d\u304c\u98df\u3044\u3064\u3044\u305f\u203c",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "NyxFxdOzGhA",
+                    "video_title": "\u8db3\u5143\u3067\u307e\u3055\u304b\u306e\u5c3a\u8d85\u3048\u9ad8\u7d1a\u9b5a\u203c",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "2B79M1bzghE",
+                    "video_title": "\u91e3\u308c\u305f\u30a8\u30d3\u3092\u8abf\u7406\u3057\u305f\u3089\u2026",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "TFoGHP0kyLg",
+                    "video_title": "\u300c\u6771\u4eac\u6e7e\u300d\u3067\u5165\u308c\u98df\u3044\u3057\u305f\u203c#1",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Q16j1L774bo",
+                    "video_title": "\u590f\u3088\u308a\u51ac\u306e\u30ad\u30b9\u304c\u3046\u307e\u3044!?\u7d76\u54c1\u8d8a\u51ac\u30ae\u30b9\u203c",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "NgKNe6EF9rk",
+                    "video_title": "\u3010\u5f8c\u7de8\u3011\u7530\u820e\u306e\u5ddd\u3067\u3046\u306a\u304e\u3092\u72d9\u3048\u203c",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "OsK8U6ylWGw",
+                    "video_title": "\u3010\u7dca\u6025\u6307\u4ee4\u3011\u305d\u306e\u7d50\u679c\u2026",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "pHZ4zeK08BQ",
+                    "video_title": "\u7528\u6c34\u8def\u3092\u300c\u8d85\u5de8\u5927\u7db2\u300d\u3067\u306f\u3055\u307f\u6483\u3061\u3057\u305f\u7d50\u679c\u304c\u51c4\u3059\u304e\u305f\u203c",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "7vwlaFTL90Q",
+                    "video_title": "\u30ed\u30c3\u30c9\u6298\u308c\u305d\u3046\u203c\u30eb\u30a2\u30fc\u306b\u5909\u3048\u305f\u3089\u307e\u3055\u304b\u306e\u4e00\u6483\u203c",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "bqirnrtX75g",
+                    "video_title": "\u3010\u7c21\u53582\u54c1\u3011\u304a\u523a\u8eab\u3068\u548c\u3048\u308b\u3060\u3051\u203c",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "fSuI2U9sR9Y",
+                    "video_title": "\u5fb3\u5cf6\u770c\u304b\u3089\u30e9\u30a4\u30d6\u914d\u4fe1\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "1fO0UhPwgVw",
+                    "video_title": "\u6bdb\u304c\u4ed8\u3044\u305f\u91dd\u3092\u6ca2\u5c71\u5ddd\u306b\u6d41\u3057\u305f\u3089\u2026",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "9wvD8Icvezk",
+                    "video_title": "\u5fd8\u308c\u53bb\u3089\u308c\u305f\u300c\u5e7b\u306e\u30ea\u30fc\u30eb\u300d\u3067\u91e3\u3063\u3066\u307f\u305f",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "6TKrzIfZ2ZM",
+                    "video_title": "\u3010\u885d\u6483\u6620\u50cf\u3011\u5de8\u5927\u7db2\u3067\u9a12\u7136\u2026\u5168\u54e1\u30d1\u30cb\u30c3\u30af",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "JHPvflE5dzQ",
+                    "video_title": "\u5927\u7206\u91e3\u300c\u91e3\u308a\u306e\u8056\u5730\u300d\u306f\u3059\u3054\u304b\u3063\u305f\u203c#3",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "T0zp6XYxbbE",
+                    "video_title": "\u30dc\u30fc\u30c8\u3067\u300c\u3046\u306a\u304e\u300d\u3092\u91e3\u308a\u306b\u884c\u3063\u305f\u3089\u6ca2\u5c71\u91e3\u308c\u305f\u203c",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "gejJQAAzybA",
+                    "video_title": "\u3010\u885d\u6483\u3011\u7aff\u304c\u7acb\u3066\u3089\u308c\u306a\u3044\u203c\u300c20kg\u7d1a\u30d2\u30e9\u30de\u30b5\u300d\u304c\u98df\u3044\u3064\u3044\u305f\u203c",
+                    "trending_days": 1
+                }
+            ]
+        },
+        {
+            "channel_name": "\u30d6\u30c1\u304b\u307e\u3057",
+            "total_trending_days": 54,
+            "videos_days": [
+                {
+                    "video_id": "vz2NIBkGd9U",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30d1\u30fc\u30ad\u30f3\u30b0\u30a8\u30ea\u30a2\u3067\u65e8\u98ef\u3092\u7206\u98df\uff01\uff01\u3010\u30b5\u30fc\u30d3\u30b9\u30a8\u30ea\u30a2\u98ef\u3011\u3010\u4fdd\u571f\u30f6\u8c37\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "V7IRVZp2ppU",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30aa\u30e0\u30ca\u30dd\u30ea\u30bf\u30f33.2kg\u3092\u98df\u3044\u5c3d\u304f\u3059\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "ASJ50OVsLK0",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30e1\u30cb\u30e5\u30fc\u8c4a\u5bcc\uff01\u3059\u305f\u307f\u306a\u592a\u90ce\u306e\u98df\u3079\u653e\u984c\u3067\u5927\u6e80\u8db3\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "4zu_Cil2bTw",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u8d85\u30cb\u30f3\u30cb\u30af\uff01\u30da\u30e4\u30f3\u30b0\u65b0\u5546\u54c110\u7bb1\u3092\u9b3c\u98df\u3044\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "CPzVqSnR5RI",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011MEGA\u30c9\u30f3\u30fb\u30ad\u30db\u30fc\u30c6\u306e\u7206\u76db\u308a\u5f01\u5f53\u3092\u9b3c\u98df\u3044\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "tYi78TGobdo",
+                    "video_title": "\u3010\u5927\u98df\u3044\u30112kg\u8d8a\u3048!!\u8d85\u5de8\u5927\u30d7\u30ea\u30f3\u3092\u98df\u3059!!",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "O80EZ0svQak",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30de\u30e8\u304c\u5408\u3046\uff01\u7167\u308a\u713c\u304d\u30c1\u30ad\u30f33kg\u3092\u7206\u98df\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "w0QiVlOOSpM",
+                    "video_title": "\u30d6\u30c1\u304b\u307e\u3057NO.1\u6599\u7406\u4eba\u304c\u6fc0\u30a6\u30de\u713c\u304d\u3046\u3069\u3093\u306e\u30ec\u30b7\u30d4\u516c\u958b\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "J8JQ_dRPhYM",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30c1\u30e3\u30fc\u30b7\u30e5\u30fc\u4e3c\u306b\u30de\u30e8\u3076\u3063\u304b\u3051\u30663kg\u98df\u3046\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "gNmiJiU8MEQ",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30aa\u30ea\u30b8\u30f3\u5f01\u5f53\u306e\u65b0\u30e1\u30cb\u30e5\u30fc\u3092\u5927\u7206\u98df\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "in117OHRBXg",
+                    "video_title": "\u5fc5\u898b\uff01\u30c1\u30fc\u30ba\u30b1\u30fc\u30ad\u3092\u5929\u3077\u3089\u306b\u3057\u3066\u98df\u3079\u3066\u307f\u305f\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "V1K7_3gOBYQ",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30ed\u30fc\u30bd\u30f3\u306e\u53b3\u9078\u304a\u5f01\u5f536\u500b\u3092\u7206\u98df\u3044\u3059\u308b\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Z7P7CwCesK8",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30d1\u30ea\u30d1\u30ea\u6625\u5dfb\u304d50\u672c\uff01\u7dcf\u91cd\u91cf3kg\u3092\u98df\u3044\u5c3d\u304f\u3059\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "mR4Ji-Z1HC0",
+                    "video_title": "\u30b1\u30fc\u30ad1\u30db\u30fc\u30eb\u3092\u4e38\u3054\u3068\u5929\u3077\u3089\u306b\u3057\u3066\u98df\u3079\u3066\u307f\u305f\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "m52w72GW5Kg",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30cb\u30f3\u30cb\u30af\u91a4\u6cb9\u306e\u30b9\u30c6\u30fc\u30ad\u4e3c3kg\u3092\u7206\u98df\u3044\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "CCL873JV68U",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011100\u338f\u8d8a\u3048\uff13\u4eba\u3067\u713c\u8089\u3092\u98df\u3079\u307e\u304f\u308b\uff01\u697d\u3057\u3044\u301c",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Zxivw4Hz2Zc",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011100kg\u8d85\uff14\u4eba\u3067\u713c\u8089\u98df\u3079\u653e\u984c\u306b\u884c\u3063\u3066\u307f\u305f\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "oYaT2Bh-OoU",
+                    "video_title": "\u3010\u5927\u98df\u3044\u30117\u7a2e\u306e\u63da\u3052\u7269\u3092\u7389\u5b50\u3068\u3058\u4e3c\u306b\u3057\u3066\u30c7\u30d6\u98ef\u98df\u3089\u3046\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "409C5UvpDZs",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u6fc0\u76db3.5kg\uff01\u8d85\u65e8\u30ab\u30eb\u30dc\u30ca\u30fc\u30e9\u3092\u98df\u3079\u307e\u304f\u308b\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "a7Oy2GjWnwo",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u571f\u934b\u76db\u308a\uff013kg\u8d85\u306e\u4e2d\u83ef\u4e3c\u3092\u98df\u3044\u307e\u304f\u308b\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "gQ0UhdtQUX0",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30d0\u30fc\u30ca\u30fc\u3067\u7099\u3063\u305f\u30c1\u30fc\u30ba\u725b\u4e3c3kg\u3092\u6fc0\u98df\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "SCNJHk8oYnA",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u7dcf\u91cd\u91cf3.3kg\u306e\u30dc\u30ed\u30cd\u30fc\u30bc\u3092\u98df\u3079\u307e\u304f\u308b\uff01\uff01\u3010\u9762\u767d\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "#NAME?",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u5927\u7c92\u30ab\u30ad\u30d5\u30e9\u30a450\u500b\u3092\u7279\u76db\u3054\u98ef\u3068\u98df\u3046\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "TmklotZXA90",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u7206\u91cf3kg\uff01\u5510\u63da\u3052\u30de\u30e8\u30cd\u30fc\u30ba\u3092\u4e71\u308c\u98df\u3044\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "y3h7S_dXRWs",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u6975\u539a\u30b7\u30ab\u30b4\u98a8\u30d4\u30b6\uff01\uff01\u4e09\u65a4\u4e38\u3054\u3068\u98df\u3044\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "SwTtmd66VAQ",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011MEGA\u30c9\u30f3\u30fb\u30ad\u30db\u30fc\u30c6\u306e\u30ae\u30ac\u76db\u308a\u5f01\u5f53\u3092\u7206\u98df\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Y_rGmUamsnw",
+                    "video_title": "551\u84ec\u83b1\u306e\u8c5a\u307e\u3093\u309211\u500b\uff01\u307e\u3063\u305f\u308a\u98df\u3079\u3066\u307f\u305f\uff01\u3010\u5927\u98df\u3044\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "l9XkPpwzZyY",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u76f4\u5f8445cm\uff01\u30b3\u30b9\u30c8\u30b3\u306e\u30d4\u30b6\u304c\u6fc0\u5b89\u3067\u30b3\u30b9\u30d1\u6700\u5f37\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "cr5TRbdLcFo",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u8d85\u7f8e\u5473\uff01\u5fb3\u5cf6\u30e9\u30fc\u30e1\u30f3\u3092\u6e80\u8179\u307e\u3067\u306f\u3057\u3054\u98df\u3044\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "qnBpasW3Css",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u6d77\u9bae\u713c\u304d\u305d\u30703.2kg\u3092\u98df\u3044\u5c3d\u304f\u3059\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "jqHzJy83nVQ",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u8089\u56e3\u5b503kg\u7206\u98df\uff01\u81ea\u4f5c\u306e\u7518\u9162\u3042\u3093\u304c\u30e1\u30c1\u30e3\u65e8\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "LAkuVAU6uv8",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u767d\u8eab\u9b5a\u306e\u30d5\u30e9\u30a430\u500b\uff01\u7dcf\u91cd\u91cf3kg\u3092\u7206\u98df\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "a-MTN4kzFnQ",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u65e8\u3055\u6700\u4e0a\u7d1a\uff01\u30cf\u30e4\u30b7\u30e9\u30a4\u30b93.0kg\u3092\u7206\u98df\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "1qRtptExiCM",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30d5\u30e9\u30a4\u30c9\u30c1\u30ad\u30f3\u30ab\u30ec\u30fc3.2kg\u3092\u80c3\u306b\u6d41\u3057\u8fbc\u3080\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "kDCkOxS6hag",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u8089\u3060\u3051\u30671kg\uff011\u4eba\u8d05\u6ca2\u306b\u3059\u304d\u713c\u304d\u3092\u7206\u98df\u3044\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "THgcuWBhvx4",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u8d85\u7206\u76db\u308a\uff013.7kg\u30b9\u30c6\u30fc\u30ad\u30ab\u30ec\u30fc\u5b8c\u98df\u306b\u6311\u6226\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "BIZqGDBEi8U",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u3081\u3061\u3083\u65e8\uff01\u30c1\u30fc\u30ba\u30c1\u30ad\u30f3\u30ab\u30c43kg\u3092\u6fc0\u98df\u3044\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "7nkgQr-i-6g",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30b3\u30b9\u30d1\u304c\u51c4\u3044\u897f\u53cb\u306e\u304a\u5f01\u5f535\u500b\u3092\u66b4\u98df\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "TuS5LxuGRkg",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u81ea\u4f5c\u306e\u30c7\u30ab\u3059\u304e\u308b\u30cf\u30f3\u30d0\u30fc\u30b03kg\u3092\u98df\u3044\u5c3d\u304f\u3059\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "FJMizax7tS8",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u8863\u30b5\u30af\u30b5\u30af\uff01\u7206\u7a4d\u307f\u30a8\u30d3\u30d5\u30e9\u30a450\u672c\u3092\u98df\u3044\u307e\u304f\u308b\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "IHyiTGFCGYE",
+                    "video_title": "\u3010\u30e9\u30a4\u30d6\u6620\u50cf\u3011\u7686\u3055\u3093\u3001\u30e9\u30a4\u30d6\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3057\u305f\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "FlbN8sabR-A",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30b3\u30b9\u30c8\u30b3\u306e\u6fc0\u5b89\u6fc0\u65e8\u30c1\u30ad\u30f3\u3092\u98df\u3044\u307e\u304f\u308b\uff01\uff01",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "1St-lYH7I_8",
+                    "video_title": "\u30c1\u30fc\u30ba\u30c9\u30c3\u30b0\u5927\u98df\u3044\u52d5\u753b\u306e\u305d\u306e\u5f8c\u3001\u3001\u3001",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "kpksZOPM-oc",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30ef\u30c3\u30d5\u30eb\u30c1\u30ad\u30f3\u2049\ufe0e\u30a2\u30e1\u30ea\u30ab\u3067\u4eba\u6c17\u306e\u9ad8\u30ab\u30ed\u30ea\u30fc\u98ef\u3092\u98df\u3079\u308b\uff01\u3010\u30c7\u30d6\u98ef\u3011",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "1bSIJfg_wGE",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30c1\u30e7\u30b3\u30af\u30ea\u30b9\u30d4\u30fc\u3092\u9650\u754c\u307e\u3067\u98df\u3079\u307e\u3059\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "9BE1C3T4lmc",
+                    "video_title": "\u5d0e\u967d\u8ed2\u306e\u30b7\u30a6\u30de\u30a460\u500b\u3092\u6b32\u5f35\u3063\u30661\u4eba\u3067\u98df\u3079\u3066\u307f\u305f\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "PWb92mkBv3Y",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30d7\u30ea\u30d7\u30ea\u30b5\u30af\u30b5\u30af\uff01\u30a8\u30d3\u30ab\u30c43kg\u3092\u7206\u98df\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Pj0HKDdXg7s",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u97d3\u56fd\u4e00\u8f9b\u3044\u30d7\u30eb\u30c0\u30c3\u30af\u7092\u3081\u9eba\u30c1\u30ad\u30f3\u30ab\u30ec\u30fc\u54735\u7389\u5b8c\u98df\u30c1\u30e3\u30ec\u30f3\u30b8\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "ZVBhF6qByW0",
+                    "video_title": "\u3010\u30c7\u30d6\u3011\u4f53\u91cd140kg\u7537\u306e1\u65e5\u6442\u53d6\u30ab\u30ed\u30ea\u30fcvol.6",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "yBNaTEuYCh0",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u3046\u307e\u304b\u3063\u3061\u3083\u30937\u888b\u3092\u8c6a\u5feb\u306b\u5438\u3044\u8fbc\u3080\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "AWL_hP4V8QM",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u9b3c\u65e8\u30c1\u30fc\u30ba\u30bf\u30c3\u30ab\u30eb\u30d3\uff01\u30db\u30c3\u30c8\u30d7\u30ec\u30fc\u30c8\u3067\u7206\u98df\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Mvz7a3q7Cok",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u8089\u6c41\u3046\u3069\u309310\u7389\u3092\u98df\u3044\u5c3d\u304f\u3059\uff01\uff01",
+                    "trending_days": 1
+                }
+            ]
+        },
+        {
+            "channel_name": "MEGWIN TV",
+            "total_trending_days": 51,
+            "videos_days": [
+                {
+                    "video_id": "qR2aA05pJ74",
+                    "video_title": "\u3010\u30b9\u30ba\u30e1\u30d0\u30c1\u8d85\u3048\u3011\u5de8\u5927\u306a\u30cf\u30c1\u306e\u5de3\u306e\u4e2d\u306f\u3069\u3046\u306a\u3063\u3066\u3044\u308b\u306e\u304b",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "FOeBj6CH4Hs",
+                    "video_title": "\u3010DIY\u3011\u30ec\u30f3\u30ac\u3067\u672c\u683c\u30d4\u30b6\u7aaf\u3092\u4f5c\u308b\uff01\u3010\u4e09\u65e5\u76ee:\u713c\u304d\u5e8a\u5207\u65ad\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "KUf_I0MvpZ4",
+                    "video_title": "\u696d\u52d9\u7528\u8089\u30df\u30f3\u30c1\u30de\u30b7\u30f3\u304c\u30ac\u30c1\u3067\u30b9\u30b4\u904e\u304e\u305fwww",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "bV3zocjXipg",
+                    "video_title": "\u902e\u6355\u306b\u3064\u3044\u3066",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "nartxjEHWXM",
+                    "video_title": "\u3010\u3054\u5831\u544a\u3011MEGWIN\u51fa\u6f14\u56de\u6570\u6e1b\u5c11\u7591\u60d1\u306b\u3064\u3044\u3066",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "4IsSMhIyRtc",
+                    "video_title": "\u30df\u30ad\u30b5\u30fc\u3067\u30ac\u30b9\u30c8\u5168\u30e1\u30cb\u30e5\u30fc\u3092\u6df7\u305c\u305f\u3089\u4f55\u5473\u306b\u306a\u308b\u306e\u304b",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "6dbEyGtJXIg",
+                    "video_title": "\u713c\u8089\u5b89\u5b89\u3067\u5927\u98df\u3044\u3084\u3063\u3066\u307f\u305f\u3010\u713c\u8089\u5b89\u5b89\u3011",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "SXB2D4eKn6U",
+                    "video_title": "\u30d5\u30a3\u30c3\u30b7\u30e3\u30fc\u30ba\u304c\u30b1\u30f3\u30ab\u3057\u59cb\u3081\u305f\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "DF2jFoHlV18",
+                    "video_title": "MEGWIN\u3068\u30d0\u30f3\u30c7\u30a3\u4ef2\u826f\u3059\u304e\u308b\u8aac\u3010TikTok\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "LvXR5A5TAw4",
+                    "video_title": "\u3010\u8d85\u5371\u967a\u3011\u30b9\u30ba\u30e1\u30d0\u30c1\u7591\u60d1\u306e\u5de3\u3092\u64a4\u53bb\u3057\u306b\u884c\u3053\u3046\u3068\u3057\u305f\u3089\u5927\u91cf\u767a\u751f\u3057\u3066\u3044\u305f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "M5d1WsuvSdE",
+                    "video_title": "MEGWIN\u306b\u91d1\u3092\u501f\u308a\u30661000000\u5186\u306e\u30b9\u30af\u30e9\u30c3\u30c1\u306b\u5168\u984d\u4f7f\u3063\u305f\u7d50\u679c",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "JV3axInogbs",
+                    "video_title": "\u30c9\u30f3\u30ad\u30db\u30fc\u30c6\u3067\u7d76\u5bfe\u306b\u3044\u3089\u306a\u3044\u3082\u306e\u4e00\u4e07\u5186\u5206\u8cb7\u3063\u3066\u307f\u305f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Jqmnhq6zTxc",
+                    "video_title": "\uff11\u4e07\u5186\u3067\u305f\u3063\u305f\uff11\u500b\u306e\u8d85\u9ad8\u7d1a\u304a\u306b\u304e\u308a\u4f5c\u3063\u3066\u307f\u305f\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "V0tAbfzyPj0",
+                    "video_title": "\u30a2\u30eb\u30df\u30db\u30a4\u30eb\u9244\u7403\u3092\u6eb6\u304b\u3057\u3066\u7825\u3044\u3067\u30ca\u30a4\u30d5\u306b\u3057\u305f\u3044\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "yoVF8GqzTos",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u5c45\u9152\u5c4b\u306710\u6b21\u4f1a\u3059\u308b\u307e\u3067\u5e30\u308c\u307e10\u3010\u6700\u7d42\u56de\u3011",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "7wkbjFlMpxw",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u8d85\u9ad8\u30ab\u30ed\u30ea\u30fc\u591c\u98df\u4f5c\u3063\u3066\u307f\u305f\u301034714Kcal\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "#NAME?",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30b3\u30f3\u30d3\u30cb\u3067\u982d\u6587\u5b57\uff21\uff5e\uff3a\u307e\u3067\u306e\u5546\u54c1\u3092\u5168\u3066\u5b8c\u98df\u305b\u3088\uff01\u30b3\u30f3\u30d3\u30cbAtoZ\u30b2\u30fc\u30e0\u3010\u6700\u7d42\u56de\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "UfEuLCzrstY",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30b3\u30b9\u30c8\u30b3\u306e\u5de8\u5927\u80895kg\u3092\u30ed\u30fc\u30b9\u30c8\u30d3\u30fc\u30d5\u4e3c\u306b\u3057\u3066\u98df\u3079\u308b",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "UydwPUGjtc0",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u5c45\u9152\u5c4b\u306710\u6b21\u4f1a\u3059\u308b\u307e\u3067\u5e30\u308c\u307e10\u2462",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "t7I4kCpIMWk",
+                    "video_title": "\u696d\u52d9\u7528\u8089\u5207\u308a\u30de\u30b7\u30f3\u3067\u30d4\u30b6\u5207\u3063\u3066\u307f\u305fwww",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "OuGaIXZJksc",
+                    "video_title": "\u30c7\u30a3\u30ba\u30cb\u30fc\u30e9\u30f3\u30c9\u3067\u30bf\u30d0\u30b3\u5438\u3046",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "G-jCLu-J8IY",
+                    "video_title": "\u30b1\u30f3\u30bf\u30c3\u30ad\u30fc\u306e\u9aa8\u3067\u30c0\u30b7\u3068\u3063\u305f\u3089\u672c\u683c\u3010\u30e9\u30fc\u30e1\u30f3\u4e8c\u90ce\u3011\u3067\u304d\u305f\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "GL9g4PyA2lw",
+                    "video_title": "\u3010\u885d\u6483\u3011\u8239\u4e57\u308a\u5834\u306e\u96a3\u3067\u4fe1\u3058\u3089\u308c\u306a\u3044\u751f\u7269\u304c\u30fb\u30fb\u30fb",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "q6mR-xo8TKM",
+                    "video_title": "1\u4e07\u5186\u306e\u8d85\u9ad8\u7d1a\u5473\u564c\u6c41\u304c\u72af\u7f6a\u7684\u306b\u30a6\u30de\u304b\u3063\u305f\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "7QB849kvgeY",
+                    "video_title": "\u4e00\u9031\u9593\u30b9\u30a4\u30ab\u3092\u6f02\u767d\u5264\u306b\u3064\u3051\u308c\u3070\u767d\u304f\u3066\u7518\u3044\u30b9\u30a4\u30ab\u306b\u306a\u308b\u306f\u305a\u203c",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "FAsfu2FCodY",
+                    "video_title": "\u30e6\u30cb\u30af\u30ed\u3067\uff11\u4e07\u5186\u5206\u670d\u8cb7\u3063\u305f\u3089\u5927\u4e8b\u6545\u306b\uff57\uff57\uff57",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "awsVrbK55hk",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u8d85\u9ad8\u30ab\u30ed\u30ea\u30fc\u671d\u3054\u306f\u3093\u4f5c\u3063\u3066\u307f\u305f\u301025218Kcal\u3011",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "sJOrJEuyhXs",
+                    "video_title": "\u3010\u8d85\u5730\u7344\u30113\u4eba\u9023\u7d9a\u30b9\u30c8\u30e9\u30a4\u30af\u51fa\u308b\u307e\u3067\u5e30\u308c\u307e\u305b\u3093\uff01\u3010\u30dc\u30a6\u30ea\u30f3\u30b0\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "WwUyVFAaSks",
+                    "video_title": "\u3010\u30c9\u30c3\u30ad\u30ea\u3011\u672c\u6c17\u3067\u4f5c\u3063\u305f\u843d\u3068\u3057\u7a74\u304c\u30e4\u30d0\u3059\u304e\u305fwww\u3010\u30d4\u30bf\u30b4\u30e9\u30c9\u30c3\u30ad\u30ea\u30b9\u30a4\u30c3\u30c1\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "9omeoax7uhg",
+                    "video_title": "\u307b\u3063\u3068\u3082\u3063\u3068\u306e\u5f01\u5f53\u3092\u5168\u90e8\u304a\u306b\u304e\u308a\u306b\u3057\u3066\u307f\u305f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "V3pmhjfdaXk",
+                    "video_title": "\u30a2\u30eb\u30df\u30db\u30a4\u30eb100m\u3092\u53e9\u3044\u3066\u4f5c\u3063\u305f\u7403\u3092\u696d\u52d9\u7528\u306e\u7825\u77f3\u3067\u78e8\u304f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "91u8DhTg9zA",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u5c45\u9152\u5c4b\u306710\u6b21\u4f1a\u3059\u308b\u307e\u3067\u5e30\u308c\u307e10",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "TcHdTT1JQGo",
+                    "video_title": "\u82f1\u8a9e\u7981\u6b62\u30dc\u30a6\u30ea\u30f3\u30b0\u306f\u3084\u3063\u3066\u306f\u3044\u3051\u306a\u304b\u3063\u305f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "uk6tx4HjXJ8",
+                    "video_title": "\u3010\u304a\u91d1\u304c\u6d88\u3048\u308b\u3011\u6771\u4eac\u30c7\u30a3\u30ba\u30cb\u30fc\u30e9\u30f3\u30c9\u30671\u4e07\u5186\u30b3\u30fc\u30c7\u3057\u3066\u307f\u305f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "n9gHwYCCQ7w",
+                    "video_title": "\u3010\u30c7\u30a3\u30ba\u30cb\u30fc\u3011\u30c7\u30a3\u30ba\u30cb\u30fc\u30e9\u30f3\u30c9\u30671\u4e07\u5186\u4f7f\u3044\u5207\u308b\u307e\u3067\u5e30\u308c\u307e10",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "LjF9KGTLFFc",
+                    "video_title": "\u3010\u30c9\u30c3\u30ad\u30ea\u3011\u98f2\u307f\u6c34\u306b\u30a2\u30ce\u6fc0\u81ed\u306e\u6db2\u4f53\u3092\u6df7\u305c\u305f\u3089\u30c8\u30f3\u30c7\u30e2\u30ca\u30a4\u4e8b\u306bwww",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "fV9xDKUR_j0",
+                    "video_title": "\u3010\u5927\u98df\u3044\u3011\u30c7\u30a3\u30ba\u30cb\u30fc\u30e9\u30f3\u30c9\u30671\u4e07\u5186\u4f7f\u3044\u5207\u308b\u307e\u3067\u5e30\u308c\u307e10\uff01\u6700\u7d42\u56de",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "1BAhgSeBkb8",
+                    "video_title": "\u3010\u6fc0\u8f9b\u3011\u6fc0\u8f9b\u30e9\u30fc\u30e1\u30f3\u306b\u4e00\u5473\u5510\u8f9b\u5b501\u672c\u4e38\u3005\u5165\u308c\u305f\u3089\u6ce3\u3044\u305f\u2026",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "f9Ggvq_4Jdo",
+                    "video_title": "\u3010\u8d85\u9ad8\u7d1a\u30b9\u30fc\u30d1\u30fc\u3011\u6210\u57ce\u77f3\u4e95\uff11\u4e07\u5186\u98df\u3079\u5207\u308b\u307e\u3067\u5e30\u308c\u307e10\uff01",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "qNknhEW508E",
+                    "video_title": "\u3010\u6574\u5f62\u3011\u9f3b\u3092\u9ad8\u304f\u3057\u307e\u3057\u305f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "zbyrHFUKdVA",
+                    "video_title": "MEGWIN\u304c\u30b3\u30f3\u30d3\u30cb\u3067\u8cb7\u3063\u3066\u6765\u305f\u3082\u306e\u5168\u30e1\u30cb\u30e5\u30fc\u5236\u8987\uff57\uff57\uff57",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "LM1yPMxxpYU",
+                    "video_title": "\u30a2\u30eb\u30df\u30db\u30a4\u30eb100m\u30921\u4e07\u56de\u53e9\u304f\u3068\u5305\u4e01\u4e26\u306b\u5207\u308c\u308b\u3089\u3057\u3044",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "W7WvkVjomoY",
+                    "video_title": "\u3010\u5927\u98df\u3044\u301145\u5206\u30b1\u30f3\u30bf\u30c3\u30ad\u30fc\u98df\u3079\u653e\u984c\u30c1\u30e3\u30ec\u30f3\u30b8\uff01\uff01",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "4IsSMhIyRtc",
+                    "video_title": "\u30ac\u30b9\u30c8\u5168\u30e1\u30cb\u30e5\u30fc\u3092\u30df\u30ad\u30b5\u30fc\u3067\u6df7\u305c\u305f\u3089\u30a2\u30ec\u306e\u5473\u306b\u306a\u308b\u3089\u3057\u3044\u3060\u3068\uff01",
+                    "trending_days": 1
+                }
+            ]
+        },
+        {
+            "channel_name": "\u91e3\u308a\u3088\u304bHOUSE",
+            "total_trending_days": 50,
+            "videos_days": [
+                {
+                    "video_id": "vqjkz2neWB4",
+                    "video_title": "\u305f\u3063\u305f1\u30f6\u6708\u30d0\u30b9\u30b1\u3092\u3057\u305f\u3060\u3051\u3067\u30b8\u30e3\u30f3\u30d7\u529b\u304c\u30a8\u30b0\u3044\u3053\u3068\u306b...",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "oc0TnNxbWLc",
+                    "video_title": "\u3053\u308c\u306f\u5927\u5909\uff01\u30ad\u30e3\u30f3\u30d4\u30f3\u30b0\u30ab\u30fc\u306e\u521d\u6d17\u8eca!!",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "sx-8ZzzO1E0",
+                    "video_title": "\u304a\u4e16\u8a71\u306b\u306a\u3063\u305f\u4eba\u3068\u307f\u3093\u306a\u3067BBQ\uff01",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "Trs-uIlYbOQ",
+                    "video_title": "\u91e3\u308a\u3088\u304bBAND\u306e\u30dc\u30fc\u30ab\u30eb\u304c\u5e30\u3063\u3066\u304d\u305f\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "dXdYvQudSMU",
+                    "video_title": "\u72ac\u30be\u30ea\u306e\u3007\u3007\u500d\u901f\u3044\u72ac\u30be\u30ea!?",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "H19fkj36x-8",
+                    "video_title": "1300\u4e07\u5186\u306e\u30ad\u30e3\u30f3\u30d4\u30f3\u30b0\u30ab\u30fc\u5168\u8c8c\u5927\u516c\u958b\uff01\uff01\u3010\u524d\u7de8\u3011",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "HX5R4jjf4iU",
+                    "video_title": "\u30a2\u30b8\u3067\u4e09\u7a2e\u306e\u7d76\u54c1\u4fdd\u5b58\u98df\u3092\u4f5c\u3063\u3066\u307f\u305f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "B3JZ-afuzBg",
+                    "video_title": "\u30ad\u30e3\u30f3\u30d4\u30f3\u30b0\u30ab\u30fc\u3067\u751f\u30c8\u30fc\u30fc\u30af",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "6GSgT5PWEY0",
+                    "video_title": "\u3064\u3044\u306bUUUM\u7403\u6280\u5927\u4f1a\u672c\u756a\uff01\u7df4\u7fd2\u306e\u6210\u679c\u306f\u767a\u63ee\u51fa\u6765\u308b\u306e\u304b\uff1f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "OuOdYr5GfQw",
+                    "video_title": "\uff35\uff35\uff35\uff2d\u30d0\u30b9\u30b1\u306b\u5411\u3051\u3066\u7df4\u7fd2\u8a66\u5408\u3084\u3063\u3066\u307f\u305f\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "p0TAkFmVLKY",
+                    "video_title": "\u6295\u3052\u308c\u3070\uff13\uff10\u5339\u3064\u3044\u3066\u304f\u308b\u30d1\u30e9\u30c0\u30a4\u30b9\u767a\u898b\uff01\uff01",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "GKAuHCju3I8",
+                    "video_title": "\u7d75\u3067\u63cf\u3044\u305f\u30b3\u30aa\u30ed\u30ae\u306b\u30ab\u30e1\u30ec\u30aa\u30f3\u306f\u9a19\u3055\u308c\u308b\uff1f\u9a19\u3055\u308c\u306a\u3044\uff1f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "gp_O0cMaGXI",
+                    "video_title": "\u30cf\u30e2\u30ea\u3092\u899a\u3048\u3066\u30ab\u30c3\u30b3\u3088\u304f\u6b4c\u304a\u3046\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "140DoLm6I0E",
+                    "video_title": "\u4e16\u754c\u4e00\u6709\u540d\u306a\u9ad8\u5727\u6d17\u6d44\u6a5f\u3067\u8eca\u304c\u6ce1\u307e\u307f\u308c\u306b\uff01\uff1f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "TYnA7yhMzRY",
+                    "video_title": "\u53e4\u4ee3\u9b5a\u6c34\u69fd\u306e\u73fe\u72b6\u5831\u544a\uff01\u3044\u308d\u3093\u306a\u5909\u5316\u304c\u3042\u308a\u307e\u3057\u305f\u3002",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "X_czpVLCmqo",
+                    "video_title": "\u3010\u30b9\u30b1\u30dc\u30fc\u3011\u30b0\u30e9\u30a4\u30f3\u30c9\uff06\u30b9\u30e9\u30a4\u30c9\u306b\u6311\u6226\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "bwSQnX_yqt0",
+                    "video_title": "\u3010\u95b2\u89a7\u6ce8\u610f\u3011\u6050\u7adc\u307f\u305f\u3044\u306a\u9b5a\u306b\u91d1\u9b5a\u3092\u3042\u3052\u3066\u307f\u305f\u3089\u30fb\u30fb\u30fb",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "zTjT73nXesI",
+                    "video_title": "\u30ab\u30e1\u30ec\u30aa\u30f3\u306b\u30a8\u30b5\u3084\u308a\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "UZjYxP0T6ww",
+                    "video_title": "\u91e3\u308a\u3088\u304b\u306e\u30c6\u30fc\u30de\uff01\u30ae\u30bf\u30fc\u306e\u30b3\u30fc\u30c9\u6559\u3048\u307e\u3059\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "KVWM1im3zS8",
+                    "video_title": "\u91e3\u308a\u3088\u304b\u3067\u306a\u304b\u306a\u304b\u91e3\u308c\u306a\u3044\u30d2\u30e9\u30e1\u3092\u72d9\u3046!\u304c!?",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "76yV1mW-Un0",
+                    "video_title": "\u30d5\u30a3\u30c3\u30b7\u30f3\u30b0\u30b7\u30e7\u30fc\u306e\u88cf\u5074\uff01\u6709\u540d\u30d0\u30b9\u30d7\u30ed\u3082\u51fa\u308b\u3088\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "eHj-zds9SrA",
+                    "video_title": "UUUM\u7403\u6280\u5927\u4f1a\u306b\u5411\u3051\u3066\u7279\u8a13\uff01\u30df\u30cb\u30b2\u30fc\u30e0\u3067\u7df4\u7fd2\u3059\u308b\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "qTOD3g6EAKg",
+                    "video_title": "UUUM GOLF\u30b3\u30f3\u30da\u3000\u91e3\u308a\u3088\u304b\uff06\u30ab\u30ba\u3055\u3093\u3010\u524d\u7de8\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "UQyeOnuoIOI",
+                    "video_title": "\u9053\u7aef\u306b\u751f\u3048\u3066\u308b\u30a2\u30ec\u3092\u98df\u3046\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "AhXzUYPpJPI",
+                    "video_title": "40\u5e74\u4ee5\u4e0a\u653e\u7f6e\u3055\u308c\u305f\u58c1\u3092\u9ad8\u5727\u6d17\u6d44\u6a5f\u3067\u6d17\u3063\u3066\u307f\u305f\u7d50\u679c\u30fb\u30fb\u30fb",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "OeC-cSFw1RU",
+                    "video_title": "\u30ab\u30ba\u30fc\u3092\u8cfc\u5165\u3057\u305f\u3051\u3069\u6f14\u594f\u306b\u60aa\u6226\u82e6\u95d8\uff1f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "w7BHNSDsfSo",
+                    "video_title": "\u8ab0\u3067\u3082\u7c21\u5358\u306b\u53e4\u4ee3\u9b5a\u304c\u98fc\u3048\u308b\u3088\u3046\u306b\u306a\u308b\u52d5\u753b",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "XvKAIv60NZw",
+                    "video_title": "\u30ab\u30db\u30f3\u3092\u9802\u3044\u305f\u306e\u3067\u30ab\u30db\u30f3\u3092\u4f7f\u3063\u3066\u97f3\u5408\u308f\u305b\u3057\u3066\u307f\u305f\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "0n6-SYIbujA",
+                    "video_title": "\u6bce\u5e74\u6052\u4f8b\u306e\u96d1\u8349\u3092\u98df\u3079\u3066\u307f\u305f\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "scSIWjSSsfw",
+                    "video_title": "\u897f\u65e5\u672c\u91e3\u308a\u535a\u3067\u91e3\u308a\u3088\u304bBAND\u751f\u6f14\u594f\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "l7LxLUCrz5M",
+                    "video_title": "\u91e3\u308a\u3088\u304b\u30eb\u30a2\u30fc\u5165\u9b42\uff01\uff1f\uff01\uff1f",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "AhJlQdw0Qew",
+                    "video_title": "\u3010\u91e3\u308a\u3088\u304b\u30d0\u30f3\u30c9\u3011\u30c6\u30fc\u30de\u66f2\u306e\u30bf\u30a4\u30c8\u30eb\u304c\u3064\u3044\u306b\u6c7a\u5b9a\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "JY3CbkHHfF4",
+                    "video_title": "\u30ef\u30f3\u30b3\u30a4\u30f3\u3067\u898b\u305f\u76ee\u3082\u6c34\u8cea\u3082\u8d85\u30ad\u30ec\u30a4\u306b\u3059\u308b\u795e\u30a2\u30a4\u30c6\u30e0\uff01\uff01\uff01\u3010\u53e4\u4ee3\u9b5a\u6c34\u69fd\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "EoT6Edxli4k",
+                    "video_title": "\u5404\u30d1\u30fc\u30c8\u3054\u3068\u306e\u5148\u751f\u306b\u7fd2\u3063\u3066\u731b\u7279\u8a13\u3059\u308b\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "HgRsKVgMGms",
+                    "video_title": "\u7b2c\u4e00\u56de\u91e3\u308a\u3088\u304b\u6e29\u6cc9\u5353\u7403\u5bfe\u6c7a\uff5e\uff5e\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "Pv0cDu5GZok",
+                    "video_title": "\uff35\uff35\uff35\uff2d\u30d0\u30b9\u30b1\u60e8\u6557\u306e\u91e3\u308a\u3088\u304b\u30c1\u30fc\u30e0\u306b\u52a9\u3063\u4eba\u73fe\u308b\uff01",
+                    "trending_days": 2
+                },
+                {
+                    "video_id": "psu1430zRsA",
+                    "video_title": "\u30b3\u30b9\u30c8\u30b3\u30675000\u5186\u5206\u306e\u97d3\u56fd\u6599\u7406\u3092\u98df\u3079\u3066\u307f\u305f\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "e63HYn6T5xU",
+                    "video_title": "\u3064\u3044\u306b\u3086\u30fc\u3074\u30fc\u304c\u5e30\u3063\u3066\u304d\u305f\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "6QZ7QKEl-kI",
+                    "video_title": "\u3068\u304f\u3061\u3083\u3093\u306e\u7d75\u306e\u63cf\u304d\u65b9\u898b\u305b\u307e\u3059\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "GZ_zfzrGcSA",
+                    "video_title": "\u91e3\u308a\u3088\u304b\u30d0\u30f3\u30c9\u306e\u30cf\u30e2\u308a\u62c5\u5f53\u306f\u8ab0\u3060!?",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "mCmMm8CTEtA",
+                    "video_title": "\u3064\u3044\u306b\u904e\u53bb\u6700\u5f37\u306e\u30ad\u30e3\u30f3\u30d4\u30f3\u30b0\u30ab\u30fc\u30b0\u30c3\u30ba\u3092\u624b\u306b\u5165\u308c\u305f...\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "j1RdJ2fif0I",
+                    "video_title": "\u3010\u30d7\u30ed\u306e\u6280\u3011\u904a\u6f01\u8239\u8239\u9577\u306b\u30a4\u30ab\u306e\u7de0\u3081\u65b9\u3092\u6559\u3048\u3066\u3082\u3089\u3063\u305f\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "H9DemMeLXkQ",
+                    "video_title": "100\u5186\u3067\u8cb7\u3048\u308b\u3042\u308b\u7269\u3092\u4f7f\u3063\u3066\u6c34\u8349\u690d\u3048\u3066\u307f\u305f\uff01\u3010\u30d5\u30b0\u6c34\u69fd\u3011",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "UtRtkbbnRMo",
+                    "video_title": "UUUM\u306e\u7403\u6280\u5927\u4f1a\u306b\u5411\u3051\u3066\uff01\u7279\u8a13\u3057\u307e\u3059\uff01\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "NzmmYTvduuU",
+                    "video_title": "\u5175\u5eab\u770c\u306b\u30b4\u30eb\u30d5\u5408\u5bbf\u306b\u884c\u3063\u3066\u6765\u305f\uff01\uff01",
+                    "trending_days": 1
+                },
+                {
+                    "video_id": "2IEWv23oa9E",
+                    "video_title": "\u30a8\u30b5\u306e\u30b3\u30aa\u30ed\u30ae\u306b\u5922\u4e2d\u3067\u4e8c\u672c\u8db3\u3067\u7acb\u3064\u30ab\u30e1\u30ec\u30aa\u30f3",
+                    "trending_days": 1
+                }
+            ]
+        }
+    ]
+}
